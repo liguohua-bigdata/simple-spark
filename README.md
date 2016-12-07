@@ -39,5 +39,7 @@
 ---
 * [data](book/data/data.md)
 ---
-# simple-spark
-# simple-spark
+
+
+
+http://blog.madhukaraphatak.com/categories/spark-two/

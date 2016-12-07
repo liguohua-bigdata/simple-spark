@@ -1,5 +1,6 @@
 package pa4
 
+import book.utils.MasterUrl
 import org.apache.spark.mllib.recommendation.{ALS, Rating}
 import org.apache.spark.{SparkConf, SparkContext}
 
@@ -9,7 +10,8 @@ import org.apache.spark.{SparkConf, SparkContext}
 object Pa4 {
   def main(args: Array[String]): Unit = {
     val conf = new SparkConf().setAppName("CollaborativeFilteringExample")
-    conf.setMaster("local[*]")
+//    conf.setMaster("local[*]")
+    conf.setMaster(MasterUrl.remoteHA)
     val sc = new SparkContext(conf)
 
     //1.LOAD DATA
@@ -54,7 +56,7 @@ object Pa4 {
       }
     })
 
-    //        products.collect().foreach(println(_))
+            products.collect().foreach(println(_))
 
     //3.PURE DATA
     val pureProductes = products.filter(p => {
@@ -88,14 +90,14 @@ object Pa4 {
     val K = 10
 
     val topKRecs = model.recommendProducts(Math.abs(pureItemLines.first().hashCode()), K)
-//    println(topKRecs.mkString("\n"))
+    println(topKRecs.mkString("\n"))
 
 
-    val top0 = topKRecs.map(r => (r.product, r))
-    val top1 = pureProductesWithHash.map(p => (p.productIdHash, p))
-    val top = top1.leftOuterJoin(top1)
-    top.collect().foreach(println(_))
-
+//    val top0 = topKRecs.map(r => (r.product, r))
+//    val top1 = pureProductesWithHash.map(p => (p.productIdHash, p))
+//    val top = top1.leftOuterJoin(top1)
+//    top.collect().foreach(println(_))
+    sc.stop()
   }
 
 }

@@ -647,6 +647,9 @@ object SparkContext006 {
     val broadcastCol = spark.broadcast(1 to 9)
     println(broadcastCol.value)
 
+    // 不能直接广播RDD
+    // spark.broadcast(spark.range(0, 10))
+    
     //6.关闭sparkcontext
     if (!spark.isStopped) {
       spark.stop()

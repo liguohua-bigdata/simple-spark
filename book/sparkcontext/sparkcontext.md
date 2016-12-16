@@ -143,7 +143,8 @@ sc.getPersistentRDDs
 执行效果
 ```
 scala> sc.getPersistentRDDs
-res24: scala.collection.Map[Int,org.apache.spark.rdd.RDD[_]] = Map(0 -> ParallelCollectionRDD[0] at parallelize at <console>:24)
+res24: scala.collection.Map[Int,org.apache.spark.rdd.RDD[_]] = 
+Map(0 -> ParallelCollectionRDD[0] at parallelize at <console>:24)
 ```
 
 

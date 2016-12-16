@@ -503,8 +503,6 @@ sc.defaultParallelism
 res41: Int = 3
 ```
 #二、在程序中使用SparkContext
-
-
 ##1.requestExecutors
 ```
 spark支持动态的申请Executor的数量。

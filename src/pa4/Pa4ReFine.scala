@@ -1,13 +1,14 @@
 package pa4
 
+import book.utils.MasterUrl
 import org.apache.spark.mllib.recommendation.{ALS, Rating}
 import org.apache.spark.{SparkConf, SparkContext}
 
 object Pa4ReFine {
   def main(args: Array[String]): Unit = {
     val conf = new SparkConf().setAppName("CollaborativeFilteringExample")
-    conf.setMaster("local[*]")
-    //    conf.setMaster(MasterUrl.remoteHA)
+//    conf.setMaster("local[*]")
+        conf.setMaster(MasterUrl.remoteHA)
     val sc = new SparkContext(conf)
 
     //1.LOAD DATA

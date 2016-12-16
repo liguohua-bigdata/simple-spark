@@ -12,7 +12,7 @@ object SparkContext004 {
     val spark = new SparkContext(sparkConf)
     //3.创建空的rdd
     val rdd0=spark.emptyRDD
-    rdd0.collect().foreach(println(_))
+//    rdd0.collect().foreach(println(_))
 
     //2/基Seq创建RDD,3个partition
     val rdd1=spark.parallelize(1 to 9,3)

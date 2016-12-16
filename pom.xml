@@ -46,12 +46,9 @@
     </dependency>
 
   </dependencies>
-
   <build>
-    <sourceDirectory>src/main/scala</sourceDirectory>
-    <sourceDirectory>src/main/java</sourceDirectory>
-    <testSourceDirectory>src/test/scala</testSourceDirectory>
-    <testSourceDirectory>src/test/java</testSourceDirectory>
+    <sourceDirectory>src/book</sourceDirectory>
+    <testSourceDirectory>src/test</testSourceDirectory>
     <plugins>
       <plugin>
         <groupId>org.scala-tools</groupId>
@@ -69,6 +66,21 @@
           <args>
             <arg>-target:jvm-1.5</arg>
           </args>
+        </configuration>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-jar-plugin</artifactId>
+        <configuration>
+          <archive>
+            <manifest>
+              <!--设置程序的入口类-->
+              <!--<mainClass>code.book.stream.streamwc.SocketWC</mainClass>-->
+              <mainClass>book.sparkcontext.SparkContext005</mainClass>
+              <addClasspath>true</addClasspath>
+              <classpathPrefix>lib/</classpathPrefix>
+            </manifest>
+          </archive>
         </configuration>
       </plugin>
       <plugin>

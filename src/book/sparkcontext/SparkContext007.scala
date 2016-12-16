@@ -11,14 +11,18 @@ object SparkContext007 {
     //2.创建sparkContext
     val spark = new SparkContext(sparkConf)
 
-    val lines = spark.parallelize(Seq("hello world", "nice to see you"))
+    //3.定义数据
+    val lines1 = spark.parallelize(Seq("hello world", "nice to see you"), 2)
 
-    val lines2=spark.runJob(lines,(t: TaskContext, i: Iterator[String]) => {
-       while (i.hasNext){
-          i.next.toUpperCase
-       }
+    //4.执行runjob操作
+    val lines2 = spark.runJob(lines1, (t: TaskContext, i: Iterator[String]) => {
+      var str = ""
+      while (i.hasNext) {
+        str = str + i.next.toUpperCase
+      }
+      str
     })
-
+    //5.显示结果
     lines2.foreach(println(_))
 
     //6.关闭sparkcontext

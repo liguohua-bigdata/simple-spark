@@ -210,15 +210,62 @@ res38: Seq[String] = ArrayBuffer(hdfs://qingcheng12:9000/input/spark/README.md)
 
 
 
-
-##0.
+##14.addFile和listFiles
 ```
+addJar：用于向sparkContext添加jar文件
+listJars：用于显示添加在sparkContext中的jar文件
 ```
 执行命令
 ```
+sc.addJar("$SPARK_HOME/jars/core-1.1.2.jar")
+sc.listJars
 ```
 执行效果
 ```
+sc.listJars
+res49: Seq[String] = ArrayBuffer(spark://192.168.0.11:45404/jars/core-1.1.2.jar)
+```
+
+
+
+
+##15.stop和isStopped
+
+```
+stop用于停止sparkContext
+isStopped用于判断sparkContext是否被停止
+```
+执行命令
+```
+stop.stop
+sc.isStopped
+```
+执行效果
+```
+res45: Boolean = false
+```
+高级用法
+```
+package book.sparkcontext
+import org.apache.spark.{SparkConf, SparkContext}
+object SparkContext001 {
+  def main(args: Array[String]): Unit = {
+    //1.创建配置文件
+    val sparkConf = new SparkConf()
+    sparkConf.setAppName("isStopped和stop")
+    sparkConf.setMaster("spark://qingcheng11:7077")
+    //2.创建sparkContext
+    val spark = new SparkContext(sparkConf)
+    //3.获取数据rdd
+    val rdd = spark.textFile("hdfs://qingcheng12:9000/input/spark/README.md")
+    //4.显示数据rdd中的内容
+    rdd.collect().foreach(println(_))
+    //5.关闭sparkcontext
+    if (!spark.isStopped) {
+      spark.stop()
+    }
+  }
+}
 ```
 
 

@@ -35,6 +35,7 @@
 * [spark-core-api-V](book/spark-core-api/V/v-api.md)
 * [spark-core-api-kV](book/spark-core-api/KV/kv-api.md)
 * [sparkContext](book/sparkcore/sparkcontext/sparkcontext.md)
+* [sparkConf](book/sparkcore/sparkConfig/sparkConfig.md)
 * [spark-sql](book/spark-sql/spark-sql.md)
 
 

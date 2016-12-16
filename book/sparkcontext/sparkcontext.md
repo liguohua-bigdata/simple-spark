@@ -1,4 +1,4 @@
-一、在spark-shell中使用SparkContext
+#一、在spark-shell中使用SparkContext
 ##1.查看sparkContext
 ```
 1.启动spark-shell查看sparkContext
@@ -451,28 +451,32 @@ object SparkContext001 {
 ```
 
 
-##0.
+##0.startTime
 ```
-```
-执行命令
-```
-```
-执行效果
-```
-```
-
-
-##0.
-```
+获取sparkContext的启动时间
 ```
 执行命令
 ```
+sc.startTime
 ```
 执行效果
 ```
+res52: Long = 1481880906383
 ```
 
 
+##0.sparkUser
+```
+获取当前spark的用户信息。
+```
+执行命令
+```
+sc.sparkUser
+```
+执行效果
+```
+res51: String = root
+```
 
 ##0. defaultMinPartitions
 ```
@@ -498,3 +502,130 @@ sc.defaultParallelism
 ```
 res41: Int = 3
 ```
+#二、在程序中使用SparkContext
+
+
+##1.requestExecutors
+```
+spark支持动态的申请Executor的数量。
+```
+执行程序
+```
+package book.sparkcontext
+
+import org.apache.spark.{SparkConf, SparkContext}
+object SparkContext003 {
+  def main(args: Array[String]): Unit = {
+    //1.创建配置文件
+    val sparkConf = new SparkConf()
+    sparkConf.setAppName(this.getClass.getName)
+    sparkConf.setMaster("spark://qingcheng11:7077")
+    //2.创建sparkContext
+    val spark = new SparkContext(sparkConf)
+    //指定申请Executor的数量
+    spark.requestExecutors(2)
+    //3.获取数据rdd
+    val path = "hdfs://qingcheng12:9000/input/spark/README.md"
+
+    val rdd = spark.textFile(path)
+    //4.显示数据rdd中的内容
+    rdd.collect().foreach(println(_))
+    //5.关闭sparkcontext
+    if (!spark.isStopped) {
+      spark.stop()
+    }
+  }
+}
+```
+
+##2.创建rdd
+```
+sparkContext可以创建rdd
+```
+执行程序
+```
+package book.sparkcontext
+
+import org.apache.spark.{SparkConf, SparkContext}
+
+object SparkContext004 {
+  def main(args: Array[String]): Unit = {
+    //1.创建配置文件
+    val sparkConf = new SparkConf()
+    sparkConf.setAppName(this.getClass.getName)
+    sparkConf.setMaster("spark://qingcheng11:7077")
+    //2.创建sparkContext
+    val spark = new SparkContext(sparkConf)
+    //3.创建空的rdd
+    val rdd0=spark.emptyRDD
+    rdd0.collect().foreach(println(_))
+    
+    //2/基Seq创建RDD,3个partition
+    val rdd1=spark.parallelize(1 to 9,3)
+    rdd1.collect().foreach(println(_))
+    
+    //3.基于hdfs文件系统创建rdd,3个partition
+    val path3 = "hdfs://qingcheng12:9000/input/spark/README.md"
+    val rdd3 = spark.textFile(path3,3)
+    rdd3.collect().foreach(println(_))
+    
+    //4.基于本地文件系统创建rdd,3个partition
+    val path4 = "$SPARK_HOME/README.md"
+    val rdd4 = spark.textFile(path4,3)
+    rdd4.collect().foreach(println(_))
+    
+    //5.关闭sparkcontext
+    if (!spark.isStopped) {
+      spark.stop()
+    }
+  }
+}
+```
+
+
+
+
+
+##0.
+```
+```
+执行命令
+```
+```
+执行效果
+```
+```
+
+
+##0.
+```
+```
+执行命令
+```
+```
+执行效果
+```
+```
+
+
+##0.
+```
+```
+执行命令
+```
+```
+执行效果
+```
+```
+
+
+##0.
+```
+```
+执行命令
+```
+```
+执行效果
+```
+```
+

@@ -542,6 +542,7 @@ object SparkContext003 {
 ```
 sparkContext可以创建rdd
 ```
+![](images/sparkcontext-rdds.png) 
 执行程序
 ```
 package book.sparkcontext

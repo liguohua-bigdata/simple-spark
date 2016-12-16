@@ -3,7 +3,7 @@ spark集群和spark-shell之间要有很多数据流和控制流的交互，spar
 1.打开spark-shell  
 执行代码：
 ```
-spark-shell --master spark://qingcheng11:7077
+$SPARK_HOME/bin/spark-shell --master spark://qingcheng11:7077
 ```
 执行效果：
 ![](images/Snip20161112_40.png) 

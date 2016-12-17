@@ -41,3 +41,4 @@ git://git.apache.org/spark.git
 4.Driver在spark中是用来启动具体的application，它一般包含一个sparkContext用于
   表示spark执行上下文，通过sparkContext可以做一些设置操作。
 ```
+![](images/sparkapp-sparkcontext-master-slaves.png) 

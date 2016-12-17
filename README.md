@@ -19,6 +19,8 @@
 
 * [spark-session](book/spark-session/spark-session.md)
 
+* [spark-session-files](book/spark-session/spark-session-files.md)
+
 * [spark-session-Mysql](book/spark-session/spark-session-jdbc-mysql.md)
 
 

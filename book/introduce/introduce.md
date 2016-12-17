@@ -27,3 +27,15 @@ git://git.apache.org/spark.git
 1.spark和大数据生态圈中的其他技术集成性好，因此你可以把Spark和其他的大数据技术进行融合。
 2.spark支持多种存储系统，多种调度系统，多种语言，因此spark的应用范围比较广泛。
 ```
+#三、spark架构
+![](images/cluster-overview.png) 
+```
+1.spark和Hadoop一样是一个主从式分布式的通用内存计算框架。
+2.主节点充当ClusterManager的角色，负责分发任务，并监控从节点上的任务执行情况。
+  2.1在standalone模式下，ClusterManager就spark的master节点。
+  2.2在sparkOnYarn模式下，ClusterManager就是yarn的resourceManager
+  2.3在sparkOnMesos模式下，ClusterManager就是mesosMaster。
+3.从节点充当worker的角色，负责执行任务，并报任务进度给主节点。
+  3.1worker中有一个或多executor进程，每个executor有一个cache用于缓存数据。
+  3.2每个executor有一个或多个Task线程，复制具体执行分布式任务。
+```

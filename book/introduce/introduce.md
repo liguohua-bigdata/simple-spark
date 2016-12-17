@@ -55,7 +55,7 @@ spark2.0中提出了sparkSession的概念，可以认为是对spark1.x中的spar
 2.worker节点实时的上报只能选进度给maser节点，并将最终的结果返回给用户。
 ```
 ##3.spark中的概念
-|概念|含义|
+|概念    |含义|
 |---|---|
 |Application|User program built on Spark. Consists of a driver program and executors on the cluster.|
 |Application jar|A jar containing the user's Spark application. In some cases users will want to create an "uber jar" containing their application along with its dependencies. The user's jar should never include Hadoop or Spark libraries, however, these will be added at runtime.|

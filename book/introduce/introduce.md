@@ -54,3 +54,14 @@ spark2.0中提出了sparkSession的概念，可以认为是对spark1.x中的spar
 1.我们编写的spark程序先提交到spark的master节点，然后由master节点分发到各个worker节点
 2.worker节点实时的上报只能选进度给maser节点，并将最终的结果返回给用户。
 ```
+##3.spark中的概念
+|概念|含义|
+|---|---|
+|Application|User program built on Spark. Consists of a driver program and executors on the cluster.|
+|Application jar|A jar containing the user's Spark application. In some cases users will want to create an "uber jar" containing their application along with its dependencies. The user's jar should never include Hadoop or Spark libraries, however, these will be added at runtime.|
+|Driver program|The process running the main() function of the application and creating the SparkContext|
+|Cluster manager|An external service for acquiring resources on the cluster (e.g. standalone manager, Mesos, YARN)|
+|Worker node|Any node that can run application code in the cluster|
+|Executor|A process launched for an application on a worker node, that runs tasks and keeps data in memory or disk storage across them. Each application has its own executors.|
+|Job|A parallel computation consisting of multiple tasks that gets spawned in response to a Spark action (e.g. save, collect); you'll see this term used in the driver's logs.|
+|Stage|Each job gets divided into smaller sets of tasks called stages that depend on each other (similar to the map and reduce stages in MapReduce); you'll see this term used in the driver's logs.|

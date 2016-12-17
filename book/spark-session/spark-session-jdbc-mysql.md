@@ -1,7 +1,4 @@
 #一、SparkSession读取Mysql数据库的四种方式讲解
-
-
-#二、SparkSession常用API
 ##1.不指定查询条件
 方法原型
 ```
@@ -100,15 +97,84 @@ numPartitions是分区的个数。
 
 
 
-##1.不指定查询条件
+##3.根据任意字段进行分区
 ```
-
+def jdbc(
+    url: String,
+    table: String,
+    predicates: Array[String],
+    connectionProperties: Properties): DataFrame
+    
+url就是mysqlJDBC的连接url
+table就是表名称
+predicates分区依据，每一一个predicate就会形成一个分区，分区内的数据可能会重复。因此最后要去重。
 ```
 执行程序
 ```scala
+package book.sparksql.sparksession
 
+import java.util.Properties
+
+import book.utils.MasterUrl
+import org.apache.spark.sql.SparkSession
+
+object SparkSession004 {
+  def main(args: Array[String]): Unit = {
+    //1.创建SparkSession
+    val spark = SparkSession.builder
+      .master(MasterUrl.localAll)
+      .enableHiveSupport()
+      .appName("RDDToDataSet")
+      .getOrCreate()
+
+    //2.创建数据库连接
+    val url = "jdbc:mysql://qingcheng11:3306/sparktest?user=root&password=qingcheng"
+    val table = "Student"
+    val predicates = Array[String]("stuAge > 15 and stuAge <50" ,
+      "sutName = 'lisi'" ,"stuAddr like 'beijing'")
+    val prop = new Properties()
+
+    //3.读取数据
+    val jdbcMysql = spark.read.jdbc(url, table, predicates, prop)
+
+    //4.显示结果
+    println("去重前显示的结果，每个predicate形成一个分区，数据可能重复")
+    jdbcMysql.show()
+    println("分区数=" + jdbcMysql.rdd.partitions.size)
+
+    //5.去重后显示结果
+    println("去重后显示的结果，每个predicate形成一个分区，数据需要去重")
+    jdbcMysql.distinct().show()
+    println("分区数=" + jdbcMysql.rdd.partitions.size)
+  }
+}
 ```
 执行效果
+```
+去重前显示的结果，每个predicate形成一个分区，数据可能重复
++--------+------+-------+
+| sutName|stuAge|stuAddr|
++--------+------+-------+
+|zhangsan|    16|tianjin|
+|    lisi|    18|beijing|
+|    lisi|    18|beijing|
+|    lisi|    18|beijing|
++--------+------+-------+
+
+分区数=3
+
+
+去重后显示的结果，每个predicate形成一个分区，数据需要去重
++--------+------+-------+
+| sutName|stuAge|stuAddr|
++--------+------+-------+
+|    lisi|    18|beijing|
+|zhangsan|    16|tianjin|
++--------+------+-------+
+
+分区数=3
+```
+
 
 
 

@@ -29,11 +29,15 @@ object SparkSession006 {
     text4.show()
 
     //5.第1种写出方式rdd.saveAsTextFile
-    val outDir = "hdfs://qingcheng11:9000/output/spark/sparksession/"
+    val outDir = "hdfs://qingcheng11:9000/output/spark/sparksession/text/"
     text1.rdd.saveAsTextFile(outDir + "saveAsTextFile")
 
     //6.第2种写出方式write.format("text").save()
     text1.write.format("text").save(outDir + "writerForma")
+
+    //7.第3种写出方式write.text
+    text1.write.text(outDir + "writerText")
+
     spark.stop()
   }
 }

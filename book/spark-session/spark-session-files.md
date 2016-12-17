@@ -2,8 +2,10 @@
 执行程序
 ```scala
 package sparksql.sparksession
+
 import book.utils.MasterUrl
 import org.apache.spark.sql.SparkSession
+
 object SparkSession006 {
   def main(args: Array[String]): Unit = {
     //0.创建SparkSession
@@ -22,28 +24,29 @@ object SparkSession006 {
     text2.show()
 
     //3.第3种读取方式read.text读取多个文件
-    val text3 = spark.read.text("hdfs://qingcheng11:9000/input/spark/person_libsvm.txt",
-    "hdfs://qingcheng11:9000/input/spark/README.md")
+    val text3 = spark.read.text("hdfs://qingcheng11:9000/input/spark/person_libsvm.txt", "hdfs://qingcheng11:9000/input/spark/README.md")
     text3.show()
 
     //4.第4种读取方式read.用郑总表达式匹配文件
-    val text4 = spark.read.text("hdfs://qingcheng11:9000/input/spark/*.csv",
-    "hdfs://qingcheng11:9000/input/spar*/*.json")
+    val text4 = spark.read.text("hdfs://qingcheng11:9000/input/spark/*.csv", "hdfs://qingcheng11:9000/input/spar*/*.json")
     text4.show()
 
     //5.第1种写出方式rdd.saveAsTextFile
-    val outDir = "hdfs://qingcheng11:9000/output/spark/sparksession/"
+    val outDir = "hdfs://qingcheng11:9000/output/spark/sparksession/text/"
     text1.rdd.saveAsTextFile(outDir + "saveAsTextFile")
 
     //6.第2种写出方式write.format("text").save()
     text1.write.format("text").save(outDir + "writerForma")
+
+    //7.第3种写出方式write.text
+    text1.write.text(outDir + "writerText")
+    
     spark.stop()
   }
 }
-
 ```
 执行效果
-![](images/Snip20161217_5.png) 
+![](images/Snip20161217_9.png) 
 ##2.SparkSession读写csv文件
 执行程序
 ```

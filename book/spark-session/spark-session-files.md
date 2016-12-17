@@ -124,6 +124,7 @@ object SparkSession008 {
   }
 }
 ```
+
 执行效果
 ![](images/Snip20161217_6.png) 
 

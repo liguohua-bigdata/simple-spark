@@ -5,7 +5,14 @@
 ##1.不指定查询条件
 方法原型
 ```
-def jdbc(url: String, table: String, properties: Properties): DataFrame
+def jdbc(
+    url: String, 
+    table: String, 
+    properties: Properties): DataFrame
+    
+url就是mysqlJDBC的连接url
+table就是表名称
+    
 spark默认开启一个线程拉取所有的数据，
 一方面，并行度太低，效率太低。
 另一方面，如果MySQL表中的数据较大，很有可能出现OOM.
@@ -55,15 +62,40 @@ object SparkSession002 {
 
 
 
-##1.不指定查询条件
+##2.指定数据库字段的范围
 ```
-
+def jdbc(
+    url: String,
+    table: String,
+    columnName: String,
+    lowerBound: Long,
+    upperBound: Long,
+    numPartitions: Int,
+    connectionProperties: Properties): DataFrame
+    
+url就是mysqlJDBC的连接url
+table就是表名称
+columnName就是需要分区的字段，这个字段在数据库中的类型必须是数字；
+lowerBound就是分区的下界；
+upperBound就是分区的上界；
+numPartitions是分区的个数。
 ```
 执行程序
 ```scala
 
 ```
 执行效果
+```
++--------+------+-------+
+| sutName|stuAge|stuAddr|
++--------+------+-------+
+|zhangsan|    16|tianjin|
+|    lisi|    18|beijing|
++--------+------+-------+
+
+分区数=5
+```
+
 
 
 

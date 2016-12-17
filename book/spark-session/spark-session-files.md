@@ -24,11 +24,13 @@ object SparkSession006 {
     text2.show()
 
     //3.第3种读取方式read.text读取多个文件
-    val text3 = spark.read.text("hdfs://qingcheng11:9000/input/spark/person_libsvm.txt", "hdfs://qingcheng11:9000/input/spark/README.md")
+    val text3 = spark.read.text("hdfs://qingcheng11:9000/input/spark/person_libsvm.txt",
+    "hdfs://qingcheng11:9000/input/spark/README.md")
     text3.show()
 
     //4.第4种读取方式read.用郑总表达式匹配文件
-    val text4 = spark.read.text("hdfs://qingcheng11:9000/input/spark/*.csv", "hdfs://qingcheng11:9000/input/spar*/*.json")
+    val text4 = spark.read.text("hdfs://qingcheng11:9000/input/spark/*.csv",
+    "hdfs://qingcheng11:9000/input/spar*/*.json")
     text4.show()
 
     //5.第1种写出方式rdd.saveAsTextFile

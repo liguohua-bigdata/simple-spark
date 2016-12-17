@@ -16,13 +16,14 @@
 * [sparkContext](book/sparkcore/sparkcontext/sparkcontext.md)
 
 * [sparkConf](book/sparkcore/sparkConfig/sparkConfig.md)
-
+* [spark-session](book/spark-session/spark-session.md)
 * [spark-sql](book/spark-sql/spark-sql.md)
 
 
 ---
 * [data](book/data/data.md)
 ---
+
 
 
 http://blog.madhukaraphatak.com/categories/spark-two/

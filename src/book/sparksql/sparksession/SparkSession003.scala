@@ -11,7 +11,7 @@ object SparkSession003 {
     val spark = SparkSession.builder
       .master(MasterUrl.localAll)
       .enableHiveSupport()
-      .appName("RDDToDataSet")
+      .appName(this.getClass.getName)
       .getOrCreate()
 
     //2.创建数据库连接

@@ -11,7 +11,7 @@ object SparkSession001 {
     val spark = SparkSession.builder
       .master(MasterUrl.localAll)
       .enableHiveSupport()
-      .appName("RDDToDataSet")
+      .appName(this.getClass.getName)
       .getOrCreate()
     val csv = spark.read.option("header", "true").csv("hdfs://qingcheng11:9000/input/spark/sales.csv")
     csv.show()

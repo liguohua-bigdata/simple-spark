@@ -82,5 +82,8 @@ spark2.0中提出了sparkSession的概念，可以认为是对spark1.x中的spar
 |---|---|
 |In-Memory|rdd主要是以内存为中心的，stored in memory as much (size) and long (time) as possible.|
 |Immutable(Read-Only)|rdd是只读的，不会改变内容的。如果对rdd执行transform，将产生新的rdd|
-|||
-|||
+|Lazy evaluated|rdd是懒计算的，所有对rdd的transform操作都是标记性的，不立即计算。等有action的时候，一起触发计算。|
+|Cacheable|rdd是能够被缓存的，可以将rdd缓存到内存或磁盘，以备下次直接使用。|
+|Partitioned|rdd是有分区的，这些分区分散到集群的各个node上|
+|Parallel|rdd能够被并行处理的，因为它的分区被分散到各个node上，每一个分区都可以单独进行计算|
+|Typed|rdd中的数据是有类型的，这和集合类似。 比如有的类型为RDD[Long]，有的类型为RDD[(Int, String)].|

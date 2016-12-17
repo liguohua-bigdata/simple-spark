@@ -65,3 +65,12 @@ spark2.0中提出了sparkSession的概念，可以认为是对spark1.x中的spar
 |Executor|A process launched for an application on a worker node, that runs tasks and keeps data in memory or disk storage across them. Each application has its own executors.|
 |Job|A parallel computation consisting of multiple tasks that gets spawned in response to a Spark action (e.g. save, collect); you'll see this term used in the driver's logs.|
 |Stage|Each job gets divided into smaller sets of tasks called stages that depend on each other (similar to the map and reduce stages in MapReduce); you'll see this term used in the driver's logs.|
+#四、RDD概念
+```
+1.spark的核心概念就是RDD(Resilient Distributed Dataset:弹性分布式数据集)
+2.Resilient(弹性)：RDD具有容错功能，如果RDD部分或全部的partition损坏了，它能根据RDD的lineage关系重新计算这些partition。
+3.Distributed(分布式)：数据被分散到集群的多个节点上。
+4.Dataset(数据集):RDD就是一个分布式的数据集合的概念。
+5.你可以把它想象成一个分布式的collection，这个collection是被切分成很多partition，
+  这些partition有分散到各个节点上。因此它能够在多个节点上并行的处理不同的partition。
+```

@@ -38,4 +38,6 @@ git://git.apache.org/spark.git
 3.从节点充当worker的角色，负责执行任务，并报任务进度给主节点。
   3.1worker中有一个或多executor进程，每个executor有一个cache用于缓存数据。
   3.2每个executor有一个或多个Task线程，复制具体执行分布式任务。
+4.Driver在spark中是用来启动具体的application，它一般包含一个sparkContext用于
+  表示spark执行上下文，通过sparkContext可以做一些设置操作。
 ```

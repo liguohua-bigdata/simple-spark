@@ -102,6 +102,21 @@ spark.sqlContext
 res8: org.apache.spark.sql.SQLContext = org.apache.spark.sql.SQLContext@d677be9
 ```
 
+
+
+
+
+
+
+/Users/liguohua/Documents/F/code/idea/git/simple-spark/src/book/sparksql/sparksession
+
+
+
+
+
+
+
+
 ##1.
 ```
 ```

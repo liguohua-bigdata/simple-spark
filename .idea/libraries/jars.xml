@@ -6,6 +6,7 @@
     <JAVADOC />
     <SOURCES>
       <root url="file:///Applications/spark-2.0.1-bin-hadoop2.7/jars" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spark-core_2.11-2.0.1-sources.jar!/" />
     </SOURCES>
     <jarDirectory url="file:///Applications/spark-2.0.1-bin-hadoop2.7/jars" recursive="false" />
     <jarDirectory url="file:///Applications/spark-2.0.1-bin-hadoop2.7/jars" recursive="false" type="SOURCES" />

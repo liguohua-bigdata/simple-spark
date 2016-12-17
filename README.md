@@ -31,6 +31,7 @@
 
 ### Spark简明实战教程
 * [第零章：前言](README.md)
+* [introduce](book/install/install.md)
 * [install](book/install/install.md)
 * [spark-core-api-V](book/spark-core-api/V/v-api.md)
 * [spark-core-api-kV](book/spark-core-api/KV/kv-api.md)

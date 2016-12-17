@@ -28,6 +28,7 @@ git://git.apache.org/spark.git
 2.spark支持多种存储系统，多种调度系统，多种语言，因此spark的应用范围比较广泛。
 ```
 #三、spark架构
+##1.spark架构概览
 ![](images/cluster-overview.png) 
 ```
 1.spark和Hadoop一样是一个主从式分布式的通用内存计算框架。
@@ -46,5 +47,10 @@ git://git.apache.org/spark.git
 spark2.0中提出了sparkSession的概念，可以认为是对spark1.x中的sparkContex的封装。
 通过sparkSession，我们可以使用sparkSQL的内容。
 ```
-
 ![](images/sparkapp-sparkcontext-master-slaves.png) 
+##2.spark程序执行过程
+![](images/spark-submit-master-workers.png) 
+```
+1.我们编写的spark程序先提交到spark的master节点，然后由master节点分发到各个worker节点
+2.worker节点实时的上报只能选进度给maser节点，并将最终的结果返回给用户。
+```

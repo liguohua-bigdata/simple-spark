@@ -41,4 +41,10 @@ git://git.apache.org/spark.git
 4.Driver在spark中是用来启动具体的application，它一般包含一个sparkContext用于
   表示spark执行上下文，通过sparkContext可以做一些设置操作。
 ```
+![](images/Snip20161217_2.png) 
+```
+spark2.0中提出了sparkSession的概念，可以认为是对spark1.x中的sparkContex的封装。
+通过sparkSession，我们可以使用sparkSQL的内容。
+```
+
 ![](images/sparkapp-sparkcontext-master-slaves.png) 

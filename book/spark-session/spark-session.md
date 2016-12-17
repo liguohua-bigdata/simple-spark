@@ -75,24 +75,31 @@ spark.sql.catalogImplementation -> hive,
 spark.app.id -> app-20161217022103-0000)
 ```
 
-##1.
+##3.sparkContext
+
 ```
+用于获取SparkContext.
 ```
 执行程序
 ```scala
+spark.sparkContext
 ```
 执行效果
 ```
+res7: org.apache.spark.SparkContext = org.apache.spark.SparkContext@57b3d869
 ```
 
-##1.
+##4.sqlContext
 ```
+用于获取sqlContext
 ```
 执行程序
 ```scala
+spark.sqlContext
 ```
 执行效果
 ```
+res8: org.apache.spark.sql.SQLContext = org.apache.spark.sql.SQLContext@d677be9
 ```
 
 ##1.

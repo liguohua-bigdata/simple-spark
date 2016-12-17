@@ -4,35 +4,30 @@ import book.utils.MasterUrl
 import com.databricks.spark.avro._
 import org.apache.spark.sql.SparkSession
 
-/*
-<dependency>
-  <groupId>com.databricks</groupId>
-  <artifactId>spark-avro_2.10</artifactId>
-  <version>3.1.0</version>
-</dependency>
-
-<dependency>
-  <groupId>com.databricks</groupId>
-  <artifactId>spark-avro_2.11</artifactId>
-  <version>3.1.0</version>
-</dependency>
- */
 object SparkSession0010 {
   def main(args: Array[String]): Unit = {
+    //0.创建SparkSession
     val spark = SparkSession.builder
       .master(MasterUrl.localAll)
       .enableHiveSupport()
       .appName(this.getClass.getName)
       .getOrCreate()
+
+    //1.读取avro文件的第一种方式
     val avroFilePath = "hdfs://qingcheng11:9000/input/spark/users.avro"
     val avro1 = spark.read.format("com.databricks.spark.avro").load(avroFilePath)
     avro1.show()
+
+    //2.读取avro文件的第二种方式
     val avro2 = spark.read.avro(avroFilePath)
     avro2.show()
 
-    val avroOutPath = "hdfs://qingcheng11:9000/output/spark/"
-    avro1.write.format("com.databricks.spark.avro").save(avroOutPath + "file1.avro")
-    avro2.write.avro(avroOutPath + "file2.avro")
+    val outDir = "hdfs://qingcheng11:9000/output/spark/sparksession/avro/"
+    //3.写avro文件的第一种方式
+    avro1.write.format("com.databricks.spark.avro").save(outDir + " avro1")
+
+    //4.写avro文件的第二种方式
+    avro2.write.avro(outDir + " avro2")
   }
 }
 

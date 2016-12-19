@@ -23,9 +23,9 @@
 
 * [spark-session-Mysql](book/spark-session/spark-session-jdbc-mysql.md)
 
-
 * [spark-sql](book/spark-sql/spark-sql.md)
 
+* [spark-alluxio](book/ext/alluxio/alluxio.md)
 ---
 * [data](book/data/data.md)
 ---

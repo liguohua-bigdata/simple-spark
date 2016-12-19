@@ -82,6 +82,7 @@ ${SPARK_HOME}/sbin/start-all.sh
 ##1.确保hdfs文件的访问权限
 ```
 ${HADOOP_HOME}/bin/hadoop dfs -chmod -R 755 /input
+${HADOOP_HOME}/bin/hadoop dfs -chmod -R 755 /output
 ```
 ##2.打开spark-shell进行测试
 ```

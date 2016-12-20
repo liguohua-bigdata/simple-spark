@@ -1,12 +1,11 @@
 package ext.alluxio
-import book.utils.MasterUrl
 import org.apache.spark.{SparkConf, SparkContext}
 
 object Alluxio001 {
   def main(args: Array[String]) {
     //1.创建spark执行环境
     val conf = new SparkConf().setAppName(this.getClass.getName)
-      .setMaster(MasterUrl.remoteHA)
+      .setMaster("local[*]")
     val spark = new SparkContext(conf)
 
     //2.读取alluxio上的文件

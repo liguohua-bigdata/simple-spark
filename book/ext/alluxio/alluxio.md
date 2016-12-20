@@ -83,6 +83,8 @@ ${SPARK_HOME}/sbin/start-all.sh
 ```
 ${HADOOP_HOME}/bin/hadoop dfs -chmod -R 755 /input
 ${HADOOP_HOME}/bin/hadoop dfs -chmod -R 755 /output
+${ALLUXIO_HOME}/bin/alluxio fs chmod -R 755 /output
+${ALLUXIO_HOME}/bin/alluxio fs ls -R /output
 ```
 ##2.打开spark-shell进行测试
 ```
@@ -105,7 +107,7 @@ rdd.collect().foreach(print(_))
 ```
  $ALLUXIO_HOME/core/client/target/alluxio-1.3.0-spark-client-jar-with-dependencies.jar
 ```
-##2.编写程序
+##2.编写读取程序
 ```
 package ext.alluxio
 import org.apache.spark.{SparkConf, SparkContext}
@@ -128,10 +130,39 @@ object Alluxio001 {
   }
 }
 ```
-##3.运行效果
+##3.读取运行效果
 ![](images/Snip20161219_3.png) 
 
         
+##4.编写写入程序
+```
+package ext.alluxio
+
+import org.apache.spark.{SparkConf, SparkContext}
+
+object Alluxio002 {
+  def main(args: Array[String]) {
+//    System.setProperty("HADOOP_USER_NAME", "root")
+    //1.创建spark执行环境
+    val conf = new SparkConf().setAppName(this.getClass.getName)
+      .setMaster("local[*]")
+    val spark = new SparkContext(conf)
+
+    //2.读取alluxio上的文件
+    val rdd = spark.parallelize(1 to 10)
+    rdd.saveAsTextFile("alluxio://qingcheng11:19998/output/spark/alluxio/test008.txt")
+    //3.关闭spark执行上下文
+    spark.stop()
+  }
+}
+```
+##3.写入运行效果
+![](images/Snip20161220_2.png) 
+```
+不会再hdfs上生成文件。
+```
+
+
 
 
 

@@ -133,6 +133,18 @@ object Alluxio001 {
 ##3.读取运行效果
 ![](images/Snip20161219_3.png) 
 
+```
+直接在alluxio中读取hdfs上的文件是可行的，如果alluxio中没有缓存改文件，那么alluxio会将hdfs文件读取出来
+并缓存起来，以供下次直接使用。这是由于alluxio默认读取策略如下
+alluxio.user.file.readtype.default	CACHE_PROMOTE
+
+`CACHE_PROMOTE` (如果数据已经在Alluxio存储内，将其移动到最高存储层，如果数据需要从底层存储进行读取，
+  将其写到本地Alluxio的最高存储层)、
+`CACHE` (如果数据需要从底层存储进行读取，将其写到本地Alluxio的最高存储层),
+`NO_CACHE` (数据不与Alluxio交互，如果是从Alluxio中进行读取，将不会发生数据块迁移或者剔除)。
+```
+
+
         
 ##4.编写写入程序
 ```
@@ -159,7 +171,12 @@ object Alluxio002 {
 ##3.写入运行效果
 ![](images/Snip20161220_2.png) 
 ```
-不会再hdfs上生成文件。
+不会再hdfs上生成文件。这是因为我们在alluxio中的配置读取策略造成的默认情况是
+alluxio.user.file.writetype.default	MUST_CACHE
+
+`MUST_CACHE` (数据仅仅存储在Alluxio中，并且必须存储在其中), 
+`CACHE_THROUGH` (尽量缓冲数据，同时同步写入到底层文件系统), 
+`THROUGH` (不缓冲数据，同步写入到底层文件系统)。
 ```
 
 

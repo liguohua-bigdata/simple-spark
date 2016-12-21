@@ -41,7 +41,7 @@
 |Parallel|rdd能够被并行处理的，因为它的分区被分散到各个node上，每一个分区都可以单独进行计算|
 
 
-参考链接：
+##三、参考链接
 ```
 http://blog.csdn.net/shifenglov/article/details/43795597
 http://blog.csdn.net/qq_19341327/article/details/50815356
@@ -49,6 +49,7 @@ https://segmentfault.com/a/1190000005034280
 http://spark.apache.org/docs/latest/mllib-collaborative-filtering.html
 https://www.zhihu.com/question/31509438
 http://blog.csdn.net/oopsoom/article/details/34462329
+http://www.cnblogs.com/luchen927/archive/2012/02/01/2325360.html
 https://github.com/jaceklaskowski/mastering-apache-spark-book/blob/master/spark-rdd.adoc
 ```
 

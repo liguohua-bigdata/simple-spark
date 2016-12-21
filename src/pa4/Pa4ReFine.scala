@@ -16,7 +16,7 @@ object Pa4ReFine {
     val dataPath = "file:///Users/liguohua/Documents/F/code/idea/git/simple-spark/src/pa4/data.txt"
 
     val itemLines = sc.textFile(itemPath).distinct()
-    val dataLines = sc.textFile(dataPath)
+    val dataLines = sc.textFile(dataPath).distinct()
 
     //2.CONVERT DATA
     case class Product(productId: String, userId: String, score: Double)

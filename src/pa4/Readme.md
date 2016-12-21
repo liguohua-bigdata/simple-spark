@@ -32,22 +32,13 @@
 2.rdd中的数据被分散到集群的各个机器上以便进行并行运算。
 ```
 ###6.RDD的特性
-```
-In-Memory, i.e. data inside RDD is stored in memory as much (size) and long (time) as possible.
-
-Immutable or Read-Only, i.e. it does not change once created and can only be transformed using transformations to new RDDs.
-
-Lazy evaluated, i.e. the data inside RDD is not available or transformed until an action is executed that triggers the execution.
-
-Cacheable, i.e. you can hold all the data in a persistent "storage" like memory (default and the most preferred) or disk (the least preferred due to access speed).
-
-Parallel, i.e. process data in parallel.
-
-Typed, i.e. values in a RDD have types, e.g. RDD[Long] or RDD[(Int, String)].
-
-Partitioned, i.e. the data inside a RDD is partitioned (split into partitions) and then distributed across nodes in a cluster (one partition per JVM that may or may not correspond to a single node).
-```
-
+|特性|含义|
+|---|---|
+|In-Memory|rdd主要是以内存为中心的，stored in memory as much (size) and long (time) as possible.|
+|Immutable(Read-Only)|rdd是只读的，不会改变内容的。如果对rdd执行transform，将产生新的rdd|
+|Lazy evaluated|rdd是懒计算的，所有对rdd的transform操作都是标记性的，不立即计算。等有action的时候，一起触发计算。|
+|Partitioned|rdd是有分区的，这些分区分散到集群的各个node上|
+|Parallel|rdd能够被并行处理的，因为它的分区被分散到各个node上，每一个分区都可以单独进行计算|
 
 
 参考链接：

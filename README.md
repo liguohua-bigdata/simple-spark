@@ -28,6 +28,8 @@
 * [spark-alluxio](book/ext/alluxio/alluxio.md)
 ---
 * [data](book/data/data.md)
+* [operator](book/operator/operator.md)
+
 ---
 
 

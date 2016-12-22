@@ -1,0 +1,692 @@
+product/productId: 068413263X
+product/title: Amazon.com: Austin Reed Dartmouth Jacket In Basics, Misses: Clothing
+product/price: unknown
+review/userId: A3Q0VJTUO4EZ56
+review/profileName: Jeanmarie Kabala "JP Kabala"
+review/helpfulness: 7/7
+review/score: 4.0
+review/time: 1182816000
+review/summary: Periwinkle Dartmouth Blazer
+review/text: I own the Austin Reed dartmouth blazer in every color in which they make it-- it is a staple of my business wardrobe. Well made, quality fabric, nicely tailored, classic lines, appropriate for a professional woman. (something that can be hard to find at times) It should be noted, however, that the periwinkle and raspberry colors are lovely, but the fabric and buttons are slightly different than the "classic" colors(lighter) and the linings and interfacings are not as substantial as the brown, navy, camel, red and ivory. It's still a good value, particularly as these are colors appropriate to warmer seasons and climates, but I was a bit surprised.
+
+product/productId: B000179R3I
+product/title: Amazon.com: Austin Reed Dartmouth Jacket In Basics, Misses: Clothing
+product/price: unknown
+review/userId: A3Q0VJTUO4EZ56
+review/profileName: Jeanmarie Kabala "JP Kabala"
+review/helpfulness: 7/7
+review/score: 4.0
+review/time: 1182816000
+review/summary: Periwinkle Dartmouth Blazer
+review/text: I own the Austin Reed dartmouth blazer in every color in which they make it-- it is a staple of my business wardrobe. Well made, quality fabric, nicely tailored, classic lines, appropriate for a professional woman. (something that can be hard to find at times) It should be noted, however, that the periwinkle and raspberry colors are lovely, but the fabric and buttons are slightly different than the "classic" colors(lighter) and the linings and interfacings are not as substantial as the brown, navy, camel, red and ivory. It's still a good value, particularly as these are colors appropriate to warmer seasons and climates, but I was a bit surprised.
+
+product/productId: B000GKXY34
+product/title: Nun Chuck, Novelty Nun Toss Toy
+product/price: 17.99
+review/userId: ADX8VLDUOL7BG
+review/profileName: M. Gingras
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1262304000
+review/summary: Great fun!
+review/text: Got these last Christmas as a gag gift. They are great fun, but obviously this is not a toy that lasts!
+
+product/productId: B000GKXY34
+product/title: Nun Chuck, Novelty Nun Toss Toy
+product/price: 17.99
+review/userId: A3NM6P6BIWTIAE
+review/profileName: Maria Carpenter
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1224633600
+review/summary: more like funchuck
+review/text: Gave this to my dad for a gag gift after directing "Nunsense," he got a reall kick out of it!
+
+product/productId: 1882931173
+product/title: Its Only Art If Its Well Hung!
+product/price: unknown
+review/userId: AVCGYZL8FQQTD
+review/profileName: Jim of Oz "jim-of-oz"
+review/helpfulness: 7/7
+review/score: 4.0
+review/time: 940636800
+review/summary: Nice collection of Julie Strain images
+review/text: This is only for Julie Strain fans. It's a collection of her photos -- about 80 pages worth with a nice section of paintings by Olivia.If you're looking for heavy literary content, this isn't the place to find it -- there's only about 2 pages with text and everything else is photos.Bottom line: if you only want one book, the Six Foot One ... is probably a better choice, however, if you like Julie like I like Julie, you won't go wrong on this one either.
+
+product/productId: B00002066I
+product/title: ah
+product/price: 15.99
+review/userId: unknown
+review/profileName: unknown
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 939772800
+review/summary: Inspiring
+review/text: I hope a lot of people hear this cd. We need more strong and positive vibes like this. Great vocals, fresh tunes, cross-cultural happiness. Her blues is from the gut. The pop sounds are catchy and mature.
+
+product/productId: B00002066I
+product/title: ah
+product/price: 15.99
+review/userId: A2KLYVAS0MIBMQ
+review/profileName: Stephen McClaning
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332288000
+review/summary: Great CD
+review/text: My lovely Pat has one of the GREAT voices of her generation. I have listened to this CD for YEARS and I still LOVE IT. When I'm in a good mood it makes me feel better. A bad mood just evaporates like sugar in the rain. This CD just oozes LIFE. Vocals are jusat STUUNNING and lyrics just kill. One of life's hidden gems. This is a desert isle CD in my book. Why she never made it big is just beyond me. Everytime I play this, no matter black, white, young, old, male, female EVERYBODY says one thing "Who was that singing ?"
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A18C9SNLZWVBIE
+review/profileName: A reader
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1096934400
+review/summary: First album I've bought since Napster
+review/text: We've come a long way since the days of Ninetendo synthesized music! I say without exaggeration that the Chrono Cross Original Soundtrack is probably some of the best instrumental music I've ever heard. Yasunori Mitsuda incorporates so many instruments and musical styles to this collection, it's a real credit to his talent. Guitars, violins, cellos and the piano are just a few of the instruments at play here. Although they differ greatly in musical style, I have to draw an analogy between Mitsuda's music here to the songs of the Grateful Dead: on this album there is a song for every mood.I would recommend this album to those who enjoyed playing the Chrono Trigger/Chrono Cross series, as well as those who are Final Fantasy fans. I stumbled across this music while downloading other video game music off the Internet, and I don't regret spending the money on this album at all. A great deal of care has been given to this music and it really shows in the end product. Anyone who enjoys good music will find it here.Maybe the best tribute to a musician isn't critical acclaim, but emulation by the fans. I've come across sheet music, remixes and covers of Mitsuda's work on this album, all done by fans as tribute and the desire to perform such music for themselves. This album is good stuff. Frankly I hope Mitsuda makes more.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A38QSOKE2DD8JD
+review/profileName: Christopher Walden
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1088121600
+review/summary: Pleasant to the ear, musical masterpiece
+review/text: Final fantasy fans may be at first skeptical of Chrono Cross's composition and production under unknown Yasunori Mitsuda, but never fear, Uematsu serves a minor role as Executive Producer! Mistuda knew what music hit home in this Celtic-themed OST. Believe me, I was skeptical as a Final Fantasy fan, until I played the game and couldn't help sitting there listening to the music!The collection is a 3-CD masterpiece. The CD's are in tracks that are appropriately given up in chronological order, and you can picture playing through the game in your mind. What's awesome is the range of new instruments and styles in the sequel to the RPG of all RPGs. MIDI sequences can't show what the original version does in this OST. Rated a 10 by EGM for best music waaaay back in the day, it's not unfounded.Okay, so the insert is in japanese - keep in mind you can't find this thing in the states anymore. DigiCube's downfall makes it hard enough to find this thing, so grab it while you can. You can get translations in a variety of places that no longer have the CDs in stock (there are a few, believe me). If you loved the game, this is a required. If you are a video game music fan, consider it as essential as the FF7 OST and remember the name Yasunori Mitsuda.Things to keep an eye out for - Disc 1, Track 7 displays a theme that you hear throughout the game, and it sounds great to hear it again. All of Disc 3 is pure musical rewards, and Track 7 on it is... well, to avoid spoling too much... it's worth the $32 plus shipping. Oh, and for all the big press Radical Dreamers and Magical Dreamers get, it's worth it even if you haven't played the games all the way through - there aren't any spoilers to ruin the experience. Just pure, amazing rpg music worthy of the title of the game.I ordered this right before going on a Choir Concert Tour Ireland, and the Celtic themes helped me enjoy the experience to the fullest!Oh, if you're considering playing the game, do what I DID NOT DO, and what others hope to do - Play Chrono Trigger First, then Chrono Cross, if you can.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: AKZLIIH3AP4RU
+review/profileName: IcemanJ
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1075939200
+review/summary: Much more than a game Soundtrack.
+review/text: This has got to be one of the best video game soundtracks ever. I've actually never really played the game, but somehow discovered the music of it, proving you don't have to like the game to like the soundtrack. I'm sure the game is also great, and maybe someday I'll purchase a PS2 and play it.The way the few different main themes are repeated throughout the discs makes it so much more epic and adventurous. The same notes, played at a different speed and with different instruments can have such different moods, and are certainly not repetitive.Many songs consist of synthesized violins, guitars, Japanese instruments and other stringed instruments, also pianos, interesting percussion, and many other synthesized sounds. The songs are made up of clear, well-produced melodious tones and notes. There are so many different moods on this cd... nostalgic, melancholic, joyful, tense, epic, pensive, spooky, calm, wondrous, ethereal, delightful, catchy... the list goes on. Of course, the music styles range from Celtic sounding, to traditional Japanese, to neoclassical, etc. all blended together nicely with Yasunori Mitsuda's special touch. A lot of the songs really make me think &quot;epic&quot; in one way or another. Many songs are also edgy or stressful like the music for a battle or difficult journey, but sometimes with a childlike tinge, suggesting the fantasy/anime aspect of the game (I'm not saying anime is childish, rather the music sounds that way at times, in a good way) Some songs have soaring melodies that revive the valiant atmosphere of the soundtrack, others have quite gloomy moods, some have simple, charming melodies, some have more spooky or haunting moods, some sound sort of like a big fairground or joyful gathering, and some have more of a feeling of a specific area like a maritime or tropical place - illustrating all the elements of a long, adventurous, tiring journey of many different perils, mysteries, and missions of all sizes.Obviously there are a lot of separate tracks on this soundtrack to encompass every single moment of music in the game (Why would you want to leave anything out?) but even the songs less than a minute are quite good. I'm not going to point out specific tracks because I'd end up listing about one-third of them, nor will I describe many specific tracks; every song is worth listening to, from start to finish. The most talked about song &quot;Radical Dreamers&quot; is a nice song with female vocals in Japanese that follows the main theme of the album, and I can see why most people consider it the best song on here, particularly the last minute or so with the angelic-like hum and amazing, gentle acoustic guitar melodies. The immaculate music box style melody after Radical Dreamers concludes the album with a very memorable sensation.I mentioned in my list of adjectives &quot;nostalgic&quot;: of course it will feel truly nostalgic if you've played the game a few years ago and didn't think about buying the soundtrack until now, reminiscing parts of the game you struggled at and enjoyed while you listen. But if you didn't have the game, it might trigger memories about other games or certain times in childhood... even though this game isn't very old at all. That may sound really weird, but it happens to me a little... I remember having fun with many SNES games since I didn't play through this.This album is sincerely worth the import price, not only is it a triple album with 67 tracks lasting over 3 hours, but is by far the most inspiring game soundtrack I've heard so far and can be enjoyed by people with the most diverse tastes. After listening to this for the first few times, it seems superior to everything else in your music collection.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A1FELZOGR5DEOM
+review/profileName: Shadow
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1035417600
+review/summary: Amazing!
+review/text: I used to find myself starting Chrono Cross over time and time again to listen to the theme song in the very beginning, but now I don't have to, thank god! Every song on this CD is absolutely magical. I've heard few better.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A2KACA2XFCGS8S
+review/profileName: Eric N. Gross
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1019779200
+review/summary: If you want RPG music, this is for you.
+review/text: I'm not an expert on Mitsuda's work but I was by no means disappointed by Chrono Cross and the soundtrack it created.Beginning with TIME'S SCAR. Here we have a Celtic dance tune emerging from a quiet beginning whisper. I will admit I love the BRINK OF DEATH although not everyone may agree. The remainder of the first album is like a tour through the music of the first few hours of the game. You'll notice that Arni has two themes for the two worlds, as do many other localities in the game.All along, the tunes are kept simple and in line with the various locations of the game. Rarely do the storyline and music disagree. DREAM OF THE SHORE catches the dark, lonely feeling Serge must have had stranded in the lost world (would have worked better here if it had been autumn in Another World). Other favorites from the first disk are SINGING EMOTIONS, ANOTHER TERMINA which adds a touch of Renaissance style to a Renaissance-style city.Death Volcano is one of the most come-out-of-nowhere themes, as is Child of Time. Beginning from a stir, they grow to match the environment they exist in. The two Guldove themes provide a good example of the contrast between the energetic and vernal Home World and the laid-back, autumnal Another World.The second disc is where it really shines. I won't go through all the examples but will say that Another Marbule and the Magical Dreamers theme are uplifting and excellent. Classical/rock combinations rarely fail.The third disc is haunting, spiritual, romantic, and all. Indeed it is where all the powerful emotions come together in a complex but orderly amalgam. GARDEN OF THE GODS is unforgettable with its choral chant and delicate minor key; the Chronopolis theme shines with futurism and even a touch of scientific socialism. The Fate, Jellyfish, and Orphanage themes stand apart, notably the Jellyfish Sea which really sounds appropriate for an underwater world. It is ambient and environmental.You won't forget the GIRL WHO STOLE THE STARS or TIME OF THE DREAMWATCH, as these are, respectively, the love theme (between Serge and Kid) and the "liberty" overture played in the second intro. After two last super-duper tracks (TOWER OF STARS and DRAGON GOD) we get to the closing music. I found UNSTOLEN JEWEL (Radical Dreamers' LE TRESOR INTERDIT)to be too soft for full effect; the game theme that precedes it is much better. (You have to use the Chrono Cross item to hear it in the game). UNSTOLEN JEWEL reminds me of "My Heart Will Go On" and the main theme from Lord of the Rings in that it is a vocal version of a melody already heard via instruments.Still, by the time this soundtrack is over, you may be either shedding tears or wanting to get the game if you haven't already.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: AR66260V9H91B
+review/profileName: Sam S.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 999820800
+review/summary: An amazing OST!! Perfect in every way!
+review/text: I played Chrono Cross a year ago. It was and still is my favorite video game of all time, not because of the thought provoking story, not the memorable cast, what left me crying after a sad scene, or jumping for joy after a stunning victory, was the amazing aural sounds composed by Mitsuda. This man is a genious, combining amazing genres of music into a compilation of tracks that will please any person, even if they don't enjoy instrumental music. Words cannot express some of the emotions the music convey's. Perhaps I love it so much because it is a reminder, a wonderful reminiscent that makes my mind soar whenever I remember where I heard a track in the game, and how the music helped that portion of the game impact my emotions. After listening to this CD, I am certain that the music is the single most important part of any video game, because without it, there is nothing except a group of people talking in silent text, with nothing in the background to make the scene intriguing and/or emotionally impacting. I urge all music fans to buy this CD. For the wonderful music you will have the privelage to listen to, no price can be put. This is truly a priceless experience.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A3CKAD2MAEM157
+review/profileName: highter
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 985392000
+review/summary: Stuning even for the non-gamer
+review/text: This sound track was beautiful! It paints the senery in your mind so well I would recomend it even to people who hate vid. game music! I have played the game Chrono Cross but out of all of the games I have ever played it has the best music! It backs away from crude keyboarding and takes a fresher step with grate guitars and soulful orchestras. It would impress anyone who cares to listen! ^_^
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A345GZYTC6CQ6Z
+review/profileName: Zar
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342310400
+review/summary: Crono cross cd
+review/text: Love the cd's and have played them multiple times. I definitely recommend buying the crono cross cd collection for anyone who ever played the game.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A1QG359N5QLUZK
+review/profileName: John P. Murphy "Los Angeles, CA"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320364800
+review/summary: Great music to a classic game.
+review/text: Attn: Do not purchase from Art_of_Music, copies from this store are bootleg and had terrible sound quality. The soundtrack was released by Miya records, a well known bootlegger, for their poor quality. Seller responded to all my emails until he received the return. I sent several emails to the seller, but never heard from him. I ended up having to go through Amazon's claims to get my refund.Music made me play the game again. I had played Chrono Trigger so many times, but only played Chrono Cross once. The music was so fun to listen to while playing, so I'm going to re-order the soundtrack from Amazon and wait however long it takes for it to ship.I just found out that Chrono Cross is getting released on the Playstation Network. Should be good.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A2J7Q6SC7ZG8I6
+review/profileName: Tein N.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1209945600
+review/summary: The best soundtrack ever to anything.
+review/text: I'm reading a lot of reviews saying that this is the best 'game soundtrack' and I figured that I'd write a review to disagree a bit. This in my opinino is Yasunori Mitsuda's ultimate masterpiece. The music is timeless and I'm been listening to it for years now and its beauty simply refuses to fade.The price tag on this is pretty staggering I must say, but if you are going to buy any cd for this much money, this is the only one that I feel would be worth every penny.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A10B5XF3C6UFOV
+review/profileName: Carmen "Lu"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 995760000
+review/summary: HURRAY, Chrono Cross
+review/text: When i played the game, the first thing that came to my mind was play and play, but in that process i realized that the music was so good that i couldn't stop playing without reapiting some levels to hear the same music again and again. So i recommend this cd. It is very entertaining and you can eat your favorite meal and listen at the same time great music without getting bored. By the way, the intro is so cool with that music,it makes me dance. I promise you won't regret it. d:D
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A8810FHPNEREL
+review/profileName: Sakkano Imako
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 986342400
+review/summary: Even for a non-player, this CD is excellent
+review/text: Chrono Cross is a landmark game for the Playstation in the fact that it is the very last game ever to be produced in the US for the system. While the graphics are stunning, the music.. oh the music! The music is what led me to buy this!While the insert notes are illegable for those who are illeterate in the Japanese language, it contains the listing of songs... which I myself can't completely read an need someone to translate them over!The best songs are on Disk Three... the Burning of Lucca's Orphanage, The Dragon God, and Radical Dreamers are by far the shining stars of this whole CD set.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: unknown
+review/profileName: unknown
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1083196800
+review/summary: Best Damn CD Ever!!!!!!!!!!!
+review/text: This CD has touched me in ways I can't tell. Not like that SICKO!! Anyway, As I was sayin, This Cd plays the games greatest songs i mean, WOW totally awesome. I love the game and this CD!!!!!
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: unknown
+review/profileName: unknown
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1046304000
+review/summary: Nobou can't compare
+review/text: As a frequent player of RPG's I have listened to many RPG soundtracks, not counting that I've beaten many. But, I must say that in comparison to the Final Fantasy Series (I own 7, 8, 9, and 10 and have played all of them) Chrono Cross easily wins in gameplay and its music. The music seems to perfectly go along with the plot. It is moving and inspiring to keep playing, which is helpful 'cause it took me like 8 hours to figure-out how to get that hydra stuff for Kid and the music continued to reassure me to keep playing.So, you can understand how I feel about this soundtrack, and if you're gonna buy the soundtrack and you don't have the game, which would be awkward, buy the game! Have fun! RPG on!
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A27NEM07T7CDQ4
+review/profileName: Stephen E. Schaefer
+review/helpfulness: 1/3
+review/score: 4.0
+review/time: 1020297600
+review/summary: Chrono Cross OST
+review/text: The music of Yasunori Misuda is without question my close second below the great Nobuo Uematsu.Chrono Cross OST is a wonderful creation filled with rich orchestra and synthesized sounds. While ambiance is one of the music's major factors, yet at times it's very uplifting and vigorous. Some of my favourite tracks include; "Scars Left by Time, The Girl who Stole the Stars, and Another World".
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A3D8T6YHSLYGWY
+review/profileName: C. Robledo
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1269993600
+review/summary: Amazing Game Music
+review/text: Yasunori Mitsuda is a genius! There's just no other way to put it. This music is beautiful, well-fitting to all of the events of the game, and especially enjoyable for those who enjoy just sitting down and listening to music. One of my favorite tracks is "Magical Dreamers - The Wind, The Stars, and The Waves" of which I have listened to over and over again. The Soundtrack is a bit pricey, but I can confidently say that it is worth every penny for the quality of music that you are purchasing. For those who are fans of the game, fans of game music, or for people who enjoy music in general, I believe this soundtrack will satisfy all of those groups of people.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A82ERU3622YJI
+review/profileName: Corey A. Messer "whitewolf_13"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1157155200
+review/summary: Beautiful
+review/text: This soundtrack trancends games alone. It brings you into a world that does not end. I cannot tell you how many hours I have spent listening to it over and over again and still enjoy every second of it. The music itself surpases its gaming origins, it easily stands on its own. It is full and vibrant using all aspects of tradition orchastral composition. A must have for any gamer that collects soundtracks and a must have for anyone that enjoys a good solid classical score.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A2GAQ3FLG7LI8D
+review/profileName: Nimms1
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1138492800
+review/summary: Yasunori Mitsuda is Extremely Talented
+review/text: I know many other posts have already said this, but it can't be said enough how great this soundtrack is. This is the best soundtrack for a game ever. Yasunori Mitsuda did a brilliant job with this. This is worth every penny. I've played this for people who don't play video games and the reaction is the same. "This was written for a video game?!"
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A1RSXP7MB772E3
+review/profileName: Jeff W. Shimkus "Movie Manji"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1105401600
+review/summary: A bunch of money. Let's have this un-imported or something!
+review/text: I enjoyed the game at first, then after a few years a vivid memory of my enjoyment came to me. I couldn't figure the reason it supplanted so strong into me. I played it again after some time, Then i figured it. The music. The game opens with the only fully orchestrated peice, still by the composer Yasunori Mitsuda. Mitsuda synthesizes the rest, nothing of his music is second rate. I couldn't believe a single person sat behind a synthesizer, perhaps with countless samples at his disposal, and created this wonderful accompanyment to the game. When I bought this soundtrack, This very one, it cost me a wopping 50 bucks. I enjoyed the purchase and didn't whine about it because of the quality jump from when listening while playing the game. When you listen to the soundtrack with the game fresh on your mind, you notice all the instuments and sounds that we're left out, or unable to be broadcasted. The very details that made this piece more than a soundtrack. It stands alone as the greatest game soundtrack ever.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A1AR8HYZ17T5H7
+review/profileName: "arxane"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1028073600
+review/summary: Yasunori Mitsuda's soothing, classical masterwork.
+review/text: While not associated with the &quot;Final Fantasy&quot; series, Yasunori Mitsuda has still become a legend for his musical works on Square titles. His legendary works include the soundtracks to &quot;Chrono Trigger&quot; and &quot;Xenogears&quot;, and joining that prestigious list is the &quot;Chrono Cross&quot; soundtrack. Spanning three discs worth of music, the soundtrack to &quot;Chrono Cross&quot; is a soothing, classical masterwork.The first thing that listeners will notice about the &quot;Chrono Cross&quot; soundtrack is that the music is very mild compared to, say, the music of &quot;Xenogears&quot;. That's not saying that there aren't any fast-paced tracks on this soundtrack, but overall the music doesn't demand a powerful emotional response using heavy instrumentation and bass. Instead, the soundtrack uses soothing, gentle melodies to envoke an emotional response, and even during fast-paced songs the feeling of calmness remains. Each song is a work of art, and while some songs are more memorable than others, they all play their part to paint a tapestry of unforgettable sound.One of the soundtrack's greatest accomplishments is the way it sounds. Mitsuda's previous masterpieces always gave the modest impression that, despite the excellence of the melodies, the songs were played using synth-like instruments. The &quot;Chrono Cross&quot; soundtrack rarely, if ever, does that. Although some instrumentation obviously sounds synth-like, the listener can somehow believe that the songs sound orchestrated. Mitsuda's demonstrated his talent for putting quality, life-like music in the &quot;Chrono Cross&quot; game when it was released on the PSX, and that quality has carried over to this marvelous soundtrack.If there is one flaw with the soundtrack, it's that is might be TOO gentle. Some people might be put off by the idea of listening to roughly three hours of gentle music with just a few fast tracks to speed things up. Even the soundtrack's vocal song, &quot;Radical Dreamers&quot;, is slow-paced, and while some people may like it, others may feel the lack of multiple instrumentation (the song uses only an acoustic guitar) actually ruins it. However, if you take the time to listen to the soundtrack, it will grow on you.All in all, the &quot;Chrono Cross&quot; soundtrack is another one of Yasunori Mitsuda's masterpieces. While it may take a couple of tries to get used to the overall gentleness of the music, once it grows on you, you won't be able to stop listening to it. Along with &quot;Xenogears&quot;, &quot;Chrono Cross&quot; is an absolute must-have soundtrack.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A3C6R6Y6MUXQDM
+review/profileName: Jeff Huffman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1165449600
+review/summary: Amazing!
+review/text: This soundtrack is my favorite music of all time, hands down. The intense sadness of "Prisoners of Fate" (which means all the more if you've played the game) and the hope in "A Distant Promise" and "Girl who Stole the Star" have been an important inspiration to me personally throughout my teen years. The higher energy tracks like "Chrono Cross ~ Time's Scar~", "Time of the Dreamwatch", and "Chronomantique" (indefinably remeniscent of Chrono Trigger) are all absolutely superb as well.This soundtrack is amazing music, probably the best of this composer's work (I haven't heard the Xenogears soundtrack, so I can't say for sure), and even if you've never played the game, it would be worth twice the price to buy it.I wish I could give it 6 stars.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A1E4KYNQI3P6QO
+review/profileName: TheDarkTrumpet
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1163030400
+review/summary: Some of the best gaming music around.
+review/text: Yasunori Mitsuda is one of the best composers for video game music in my opinion. Chrono Cross is a sequal to the popular game, Chrono Trigger. Both soundtracks are composed by this person. Most of the songs on this soundtrack are unlike other soundtracks because these take a form of being more "new age" on a number of the tracks (Time's Scar for example), whereas others more guitar classical (Radical Dreamers, Another Gardopu). The diversity of these songs, and the little overlap (using the same theme over and over again - Although the theme from Magical Dreamers is used in 3-4 tracks).I highly recommend this soundtrack, especially if you played the game or like more classical/newage types of music. Out of all the gaming soundtracks I own (This is probably well over 20 or so) this soundtrack definitely is the top one I enjoy a lot. The themes on most of the songs are great, and there's enough musical diveristy to keep the songs interesting even through multiple times of listening.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A119VJ474WDPAU
+review/profileName: Debra Mcfalls "Raist"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1150588800
+review/summary: Hopelessly Hooked
+review/text: The first time I watched my kids play this game, I was a fan of the music. I'm on my second set now. It's more than a video game soundtrack. It's music.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: AG7RPAOC7L7OZ
+review/profileName: Steven Alexander
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1146182400
+review/summary: Mitsuda's Masterpiece
+review/text: While Yasunori Mitsuda's score for Chrono Trigger was nicely done and well-composed, it's hard not to notice that it sounds just like what it is: video game music. The game's sequel, on the other hand, while having the same great musical authorship, also sounds much more organic, which is probably why I like the Chrono Cross soundtrack just a little more than its predecessor.Right at the beginning of the first disc "Time's Scar" starts off with a sense of serenity and then grabs your attention by turning into what sounds like a musical stampede. While this is a standout track, many of the pieces just get better from there. The somewhat Carribianesque "Plains of Time" commences with an amazing guitar hook and then proceeds to play the main theme found throughout Chrono Trigger (a very catchy melody which I've always liked). "Dream of the Shore Near Another Ocean" tones things down a bit with its poignant, mournful strings and soft, resplendent keyboard melody playing in the background. Other highlights from disc one include "Aruni Village", "Singing Emotions", "Triumph" (short but sweet), and "Another Galdove."Disc two, being my least favorite of the three, nevertheless has some standout pieces that are not to be missed. "Voyage~Home World" is so amazingly catchy that I simply wore it out after hearing it for the first time. "Chronomantique" is another version of the tune found in "Plains of Time" and "People Imprisoned By Destiny" is arguably the saddest and most moving song in the entire Game Music Genre.Disc three picks things up again and has some of my favorite pieces on the soundtrack. "Garden of God" is just awesome. It has a very New Age-type feel to it. Follow this up with other tracks like "Star-Stealing Girl" and "Dreamwatch Of Time" and you're probably thinking that things just can't get much better. But, just like any good composer, Mitsuda saves the best for last. While many of the reviewers here have highlighted "Radical Dreamers" as a stand-out vocal piece, I'm actually more partial to "Life~Far Away Promise." There's just something about that mourning woodwind that "sings" the chorus (if you will) that just gets to me. Also, as far as video game music goes, I've always preferred instrumental music to vocal tracks. With that being said, both of the songs do an excellent rendition of the main themes found in this soundtrack and I'm sure that most of Mitsuda's fans will enjoy both of them.There's really nothing else I can say that others haven't said already. I would recommend this soundtrack whether or not you're into game music, especially if you're into instrumental music of any kind. Yasunori just plays with so many styles and he does all of them beautifully. Virtually everyone will be able to find something of value in this three disc collection and, as others have mentioned,it is both a masterpiece and a classic.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: AP873CKMZT1FV
+review/profileName: KK
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1097971200
+review/summary: Awesome!
+review/text: I have heard a lot of anime/videogame soundtracks and I got to say that this is one of the best. All the tracks on this soundtrack are very good. Even if you have never played Chrono Cross before the music will still move you. I know that it's helped me keep calm when doing some frustrating homework!
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: AFF5R2KEB0PO4
+review/profileName: Anton Olivar
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1201219200
+review/summary: No Doubt this is a Masterpiece !!!
+review/text: This one the best soundtrack ever composed for Video Games.I never get bored listening it. I'm still waiting for the sequel all of this years.I highly recommended it.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: AZPK4D6SO2ZT5
+review/profileName: Jesse Schoch
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1194220800
+review/summary: One of the best game music soundtracks - for a game I didn't really play
+review/text: Despite the fact that I have only played a small portion of the game, the music I heard (plus the connection to Chrono Trigger which was great as well) led me to purchase the soundtrack, and it remains one of my favorite albums. There is an incredible mix of fun, epic, and emotional songs. Those sad and beautiful tracks I especially like, as there's not too many of those kinds of songs in my other video game soundtracks. I must admit that one of the songs (Life-A Distant Promise) has brought tears to my eyes on many occasions.My one complaint about this soundtrack is that they use guitar fretting effects in many of the songs, which I find distracting. But even if those weren't included I would still consider the collection worth it.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A1XSXXKITSCC7F
+review/profileName: Robert Chavis "r. chavis"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1152662400
+review/summary: Excellent Soundtrack
+review/text: I truly like this soundtrack and I enjoy video game music. I have played this game and most of the music on here I enjoy and it's truly relaxing and peaceful.On disk one. my favorites are Scars Of Time, Between Life and Death, Forest Of Illusion, Fortress of Ancient Dragons, Lost Fragment, and Drowned Valley.Disk Two: The Draggons, Galdorb - Home, Chronomantique, Prisoners of Fate, Gale, and my girlfriend likes ZelbessDisk Three: The best of the three. Garden Of God, Chronopolis, Fates, Jellyfish sea, Burning Orphange, Dragon's Prayer, Tower Of Stars, Dragon God, and Radical Dreamers - Unstealable Jewel.Overall, this is a excellent soundtrack and should be brought by those that like video game music.Xander Cross
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A1XJVHJP64D37O
+review/profileName: slyce23
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1124668800
+review/summary: Another Astounding job by Yasunori Mitsuda
+review/text: once again, i'm amazed. I was playing the actual game (not the soundtrack) the other day and i thought in my mind that one of the reasons i always played that game, even though i beat it at least 2 or 3 times is because of the amazing music. so i got the soundtrack. Seriously, its amazing the music he has created with a new wide range of instruments (compared to MIDI only in his still awesome soundtrack, Chrono Trigger). this soundtrack will satisfy your mood no matter what mood you're in. from sad music to happy music to exciting music to calm music this soundtrack has pretty much everything you could want in a game soundtrack. Get this soundtrack if your a fan of Music of any type!!!
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: AHG5JZSVPS6WR
+review/profileName: Eric James A. Porter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1124409600
+review/summary: This is a great soundtrack
+review/text: I enjoy listening to my Chrono Cross CDs. The Sound quality is grate, and as I listen the music still inspires me, and I can relive the game as I play the music at home or work. Really I just like video game music and this is one of the best soundtracks that I have now. It really has all the songs and music that are found in the game.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A2SJ0LSP5YUYGP
+review/profileName: CursedFreedom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1089504000
+review/summary: Incredible music for an incredible game.
+review/text: I have many video game soundtracks, as well as anime soundtracks, and I must say that this could top them all. If I could listen to one cd before I die, this might well be it. If you haven't played the game, it really doesn't matter. The compositions should appeal to anyone who loves relaxing yet often upbeat sounds brilliantly put together. I'd definitly recommend it. While you're buying this, I'd also recommend playing the game as well (if you haven't already).
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A326VXSYPBCMQ7
+review/profileName: Trent
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1086480000
+review/summary: Best Video Game Score Ever
+review/text: Mitsuda is a musical genius. All the parts he writes seem to fall into place perfectly. I grew up loving music by John Williams and Hans Zimmer and this guy is right up there with them. For some songs his style turns away from the traditonal orchestra and still has the same impact. One of the best parts is only a few songs seem ambient while the others are just amazing. My favorites are, Lost Pieces, Garden of God, On the Banks of a Dream, and possibly the one of the saddest themes I've ever heard is People Seized With Life. First time listeners would probably think this music was from some epic movie when in fact it's the music to an epic game. The Chrono series has two of the best rpg's ever and by far the best composer writing for them.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A2BVZU0E84E28
+review/profileName: G.K.Shriram
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1074988800
+review/summary: Enchanting Musical Genius
+review/text: If there is a music album which almost reaches absoulete perfection this must be it. Every human emotion is mirrored through this unbeleivable three disc set which takes you on a roller coaster ride through the fascinating world of chrono cross.It starts with the soulful enchanting but powerful 'Scars of Time' which seamlesly fuses fast paced mayhem with soul stirring emotions and ends with one of the greatest musical accomplishments of any genre during any time the magnificent &quot;Radical Dreamers Unstolen Jewel&quot;. One word to decribe this song would be enchantment. It transports you to another world a world without sorrow or memory and is everything it should be. The song alone is worth the price of this CD.Amid these two masterpieces are more beautiful gems strewn across this three disc marvel. Magical dreamers is music with true feeling to back it up and another world displays superbly the magic of the acoustic guitar. Even the atmoshperic music is top notch with subtle changes in flavour here and there which entice and charm you.The tunes vary from those depicting bravery and sacrifice like 'Dragon Rider' to those depicting strife and internal grief like 'People imprisoned by destiny'.The wide spectrum of instruments and musical genres is also excellent as it keeps your attention span for the entire three discs.I think this is how music was meant to be. Every note in this album is emotionally charged and there are very few things to forget in this album. If you are looking for good music then chono cross will gve you something which you will never forget and something you will treasure for the rest of your life. I think Yasunori Mitsuda will soon become the premier composer of our time.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A28JDCKBEDSI1D
+review/profileName: Matthew Faulkerson "Guitarist and PC Geek"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1066003200
+review/summary: Very well arranged and composed
+review/text: The music contained on some of the tracks are slight remixes of previous music from the original Chrono Trigger. However, the composed songs are very well arranged and orchestrated, espeically the ones on the last disc. And unlike the Chrono Trigger soundtrack this one is not synthesized. Even the simpleist songs such as the acoustic guitar themes are a pleasure to listen to.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A2FAUWMT2CVLL9
+review/profileName: Locke325
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1030579200
+review/summary: Classical, Tropical , Soothing man this CD has everything
+review/text: Since i dont have much time to write this review ill just say this. This Cd might be the best relaxing CD you will ever hear, my friends who listen to Enya were skeptical when i told them that this Cd was better, but when they heard Another World theme, they were hooked. All i can say is that even if you dont like relaxing music, you should still buy it to admire how great the quality of the music is(for a PSX game) and how much effort Mitsuda put n it.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A2YBC9UNN9G3J9
+review/profileName: "genius_washu"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1029628800
+review/summary: Too good to be true
+review/text: Probably the greatest soundtrack in history! Usually it's better to have played the game first but this is so enjoyable anyway! I worked so hard getting this soundtrack and after spending [money] to get it it was really worth every penny!! Get this OST! it's amazing! The first few tracks will have you dancing around with delight (especially Scars Left by Time)!! BUY IT NOW!!
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A390V0MQLXVPU9
+review/profileName: The Rectifier
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1029024000
+review/summary: AWESOME Game Soundtrack
+review/text: I have several soundtracks from Japanese anime and very few from videogames. From the opening track to the 3 ending tracks this CD is terrific! It reworks some of the Chrono Trigger themes but the original music blows everything else away!I would buy it just for the opening theme and the &quot;best-end&quot; theme!If you haven't bought the Chrono Cross game yet, do yourself a favor and get them both at the same time!
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A1FBGEBNYMFAHO
+review/profileName: A. R. Kugelstadt "Mineralogy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1028073600
+review/summary: WOW.
+review/text: Yasunori Mitsuda pushed the PlayStation to the limits with one of the most lush soundtracks to ever grace a game. Perfectly keyed to its settings, the music drips with the feeling of tropical islands and exotic locales before dipping into the darker requiems near the end.It's hard to believe this is synthesizer work, as it's some of the clearest and most rich sound to come out of a game. It fits the atmosphere and settings perfectly. It's especially powerful once you've played through the game, as the emotional impact of certain scenes (like the fight against Miguel in the Tower of Geddon) is enhanced beyond words by tracks like &quot;People Imprisoned by Destiny&quot; (disc 2, track 16). Other music - like &quot;Voyage - Home World&quot; (disc 2, track 05) and &quot;Dancing Lizards&quot; (disc 1, track 05) are just perfect for opening the window and feeling good. Mitsuda's skillful mix of dark, operatic, and brooding tunes with bouncy, bright tropicalia makes for an excellent album.This is one of a few game music soundtracks I would fully recommend to everyone, even those who aren't into the genre - or don't play games. It's amazing and should not be missed. And, of course, if you ARE a fan of game music, and don't own this... I'm amazed. Buy it as soon as possible, it is not a regrettable decision.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A16LR96HZ5UK7Z
+review/profileName: mos "mos"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1022284800
+review/summary: Classic
+review/text: This being one of my favorite game soundtracks ever, I've listened to it probably a thousand times. Especially for people who played the game it's very interesting, but also for people who are into great ambient and classical themes this might be just the perfect creation. This album is in great contrast with it's predecessor, at least in my opinion. This album is way beyond, like Yasunori Mitsuda has truly evolved. What can I say? He's a mastermind, that's for sure. I'm not gonna name my personal favorites, because...well...that's something you should decide for yourself. So...get this! And decide! By the way, the tracklisting is in japanese but you can find an English translation on the internet.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: AY86QATTP0P3X
+review/profileName: Corey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1017619200
+review/summary: Simply amazing
+review/text: I have never cared to much for video game music before. Basically,I just cared about the fun factor and storyline. But when I put Chrono Cross into my Playstation for the first time I was blown away by the opening FMV with the score &quot;Time's Scar&quot;. After that I payed real close attention to the music throughout the entire game. I was simply impressed with how the music swept me right into the game. It put me in a different state of mind. Relieved all my stress and let me relax. It scared me when it brought a tear to my eye. Never would I have thought that video game music would do this to me. And no, Im not exaggerating. And I highly reccomend this incredible soundtrack and the rest of Mitsuda's work (Chrono Trigger, Xenogears)to anyone with a taste for beautiful music!
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A3K75QQ18L63IW
+review/profileName: Bernard Luk
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1016496000
+review/summary: Truly a timeless masterpiece...
+review/text: For many RPG fans, Chrono Trigger (for the SNES) was considered to be one of the best RPGs ever made. Squaresoft didn't disappoint loyal fans when they unexpectedly came out with Chrono Cross for the PlayStation. Along with Final Fantasy X and Chrono Trigger, I would have to these three games to be the best RPGs of all time.Since I myself am a music buff, I usually rate games and music based on the soundtrack and character development, rather than the actual gameplay and battle system. I won't go into other aspects of the game (see the Chrono Cross PlayStation reviews), but Chrono Cross, lives up to its reputation in all the categories.The music brings in themes from Chrono Trigger (e.g. Track 04 contains music from its predecessor), plus introduces brand new themes with lots of different influences (e.g. the Celtic quality of the introduction theme). Overall, the music is one of the best I've heard for anything (including games and movies), well-deserving a 10 out of 10.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A2EXPIEC5A7TN6
+review/profileName: "magitekpange"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1016064000
+review/summary: CC - Wonderful
+review/text: After playing the game Chrono Cross, one of the main things I remembered was the gorgeous music. Each song in the game matches the mood and setting of the area. The music was apart of the game, and definatly sets the player into the right frame of mind when playing.I've always found game music to be excellent, but Yasunori Mitsuda stands out in my mind, just as Nobou Uematsu (composer of the Final Fantasy series) does.Each song sounds animated, realistic, and unique. Some of the best songs on the album (in my opinion) are Time's Scar, Another Termina, Lost Child of Time and the Brink of Death. Though I love nearly every song that I remember in the game.This soundtrack is highly recommended!
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A1H9VK6NK9OSD0
+review/profileName: Lynette Bridges
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1010102400
+review/summary: Remember, Pull Your Jaw Off The Floor After Hearing it
+review/text: If you've played the game, you know how divine the music is! Every single song tells a story of the game, it's that good! The greatest songs are without a doubt, Chrono Cross: Time's Scar, Magical Dreamers: The Wind, The Stars, and the Sea and Radical Dreamers: Unstolen Jewel. (Translation varies) This music is perfect if you ask me, the best it can be. Yasunori Mitsuda just poured his heart on and wrote it down on paper.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A3380FWTZOAF0D
+review/profileName: L. Morningstar
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1007856000
+review/summary: an absolute masterpiece
+review/text: I am quite sure any of you actually taking the time to read this have played the game at least once, and heard at least a few of the tracks here. And whether you were aware of it or not, Mitsuda's music contributed greatly to the mood of every single minute of the whole game.Composed of 3 CDs and quite a few songs (I haven't an exact count), all of which are heart-rendering and impressively remarkable, this soundtrack is one I assure you you will not forget. It has everything for every listener -- from fast-paced and energetic (Dancing the Tokage or Termina Home), to slower and more haunting (Dragon God), to purely beautifully composed (Time's Scar), to even some fantastic vocals (Radical Dreamers).This is one of the best videogame soundtracks out there, and surely Mitsuda's best ever. ^_^
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A2ERTFH7P4K1XQ
+review/profileName: Mr. Tomtomulonicus Flombatoid Millorotron
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 999475200
+review/summary: Mitsuda's best soundtrack yet
+review/text: OK, you know how in my review of Xenogears' soundtrack I said it was my second favorite? Well this is number one. There are so many excellent pieces of music on this OST it will literally blow your mind and leave you twitching like a goldfish out of the water. Well, maybe not, but really good nonetheless. My favorite tracks are &quot;People Seized With Life&quot;, &quot;Time's Scar&quot;, &quot;Magical Dreamers&quot;, &quot;Home Gardov&quot; and a whole plethora of others. So, get it, for cryin' out loud!
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A2F9JDBYG6U9VH
+review/profileName: J-Man
+review/helpfulness: 39/40
+review/score: 5.0
+review/time: 1135728000
+review/summary: The Track List...
+review/text: Disc One (60:40)1) Chrono Cross ~ Scars of Time 2:292) Between Life and Death 2:383) Arni Village ~ Home 3:234) Fields of Time ~ Home World 3:265) Lizard Dance 2:416) Reminiscing ~ Uneraseable Memory 3:257) On the Beach of Dreams ~ Another World 2:228) Arni Village ~ Another 3:329) Ephemeral Memory 2:5110) Lost Fragment 3:1211) Drowned Valley 2:0012) Termina ~ Another 2:4313) Departed Souls 3:4314) Forest of Illusion 3:2515) Snakebone Mansion 2:5416) Victory ~ A Gift of Spring 0:5617) Lost in Time 3:2418) Galdorb ~ Another 3:2619) Hydra Swamp 3:1020) Fragment of a Dream 1:3521) Voyage ~ Another World 2:3222) Ghost Ship 2:0023) Deathfire Mountain 3:3924) Fortress of Ancient Dragons 3:5425) Grief 0:20Disc Two (59:50)1) Beginning of a Dream 0:422) A Narrow Space Between Dimensions 2:473) Termina ~ Home 3:384) The Dragoons 3:015) Voyage ~ Home World 3:226) Galdorb ~ Home 3:587) Marbule ~ Home 2:558) Zelbess 2:429) The Splendidly Grand Magic Troupe 1:3110) Nap 0:1311) Chronomantique 3:1812) Dilemma 2:4713) Optimism 2:1914) Isle of the Dead 3:1115) Dead Sea/Tower of Destruction 3:1016) Prisoners of Fate 3:2617) A Light Already Lost 0:3218) Island of the Earth Dragon 3:1619) Navel of the World 2:5920) Gale 2:0021) Victory ~ A Cry in Summer 0:5322) Marbule ~ Another 3:0023) Magic from the Fairies 0:1324) Etude 1 0:1225) Etude 2 0:1426) Magical Dreamers 2:02Disc Three (53:21)1) Garden of God 2:452) Chronopolis 4:123) Fates ~ The God of Destiny 3:104) Jellyfish Sea 2:555) Burning Orphanage 2:446) The Girl Who Stole the Stars 3:487) The Dream that Time Dreams 4:018) Dragon's Prayer 5:579) Tower of Stars 2:2610) Frozen Flame 2:5411) Dragon God 3:2112) Dark Realms of Time 0:4213) Life ~ A Distant Promise 6:3214) Reminiscing ~ Uneraseable Memory 1:3915) Radical Dreamers ~ Unstealable Jewel 4:2516) Fragment of a Dream 2:00
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A9AX1D31T7J1S
+review/profileName: Zachary Gochenour
+review/helpfulness: 34/35
+review/score: 5.0
+review/time: 1052784000
+review/summary: Masterpiece from a Virtuoso Composer
+review/text: Yasunori Mitsuda must be one of the greatest musical virtuosos of our time, and Chrono Cross is his most impressive achievement to date. This Japanese composer - who also wrote the music for Chrono Trigger, Xenogears, and Xenosaga - is a master at using several styles of music to define his unique work: celtic, arabian, classical, neoclassical, and traditional japanese influences are all recognizable and expertly crafted into this work. Rather than limit himself to a narrow selection of instruments and styles, Mitsuda combines these traditional styles and adds his own exciting flavor to the mix. The mixture will capture your ear starting at the beginning.Almost all the tracks will be familiar to those who have played Chrono Cross (an excellent game), and many are reminiscent of the Chrono Trigger soundtrack. These recognizable themes are like mom's apple pie to gamers: they should remind you of long, enjoyable hours and memorable moments from your gameplay experience. Divorced from the video game, the music may not have the nostalgic effects, but it stands alone as a powerhouse of composing talent and a monumental achievement in modern music.The Chrono Cross OST is divided into 3 discs entitled Cause, Unveiling, and Change: each building on the theme of temporal change and disturbance. The best way to listen to this album is from start to finish without interruption; this is the only way you can truly appreciate how the music develops. All the tracks together last slightly longer than three hours, but it will be well worth your investment of time and money. Listening to Mitsuda's work stimulates the imagination and keeps the mind involved, whether it be through exciting, active tracks or ambient, meditative ones.Most of the songs are calm and relaxing, as they are intended to double as background music, but many are sure to get your blood pumping. Some of the best tracks are Time's Grasslands, Dream on a Shore Bordering Another World, Chronomantic, Predicament, Radical Dreamers, and one vocal track, sung in Japanese, that is a beautiful complement to the instrumental work. Certainly do not listen exclusively to these tracks, though, because you would miss the musical experience. After you finish the soundtrack, you will want to start it over and listen again.Mitsuda takes synthetic and game music to a new level. He is the most innovative composer currently working today, and this soundtrack is a collection of some of his most impressive and inspiring work. The Chrono Cross OST is a must have for music and game lovers alike.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A2NXOW1IQ2BW85
+review/profileName: Vanessa Lane "Vanessa"
+review/helpfulness: 20/21
+review/score: 5.0
+review/time: 996192000
+review/summary: Chrono Cross: Mitsuda's crowning achievement.
+review/text: For those of you who have played the game, you are all too familiar with the various themes throughout the soundtrack. From the moving and dramatic opening song, &quot;Time's Scar,&quot; the upbeat and fun &quot;Dancing the Tokage,&quot; and the eerie vocal track &quot;Radical Dreamers,&quot; this soundtrack satiates those of us with diverse tastes in music.However, for those of you who can't equate love of the soundtrack with love of the game (heaven forbid), then here is some information that you will probably value. Some of the tracks border on celtic themes, while others are of the more traditional classical style of music. There is one vocal song (as mentioned previously) that is absolutely beautiful, even if it is sung in Japanese. Although the music is synthesized, the sounds are so crisp that, for the most part (especially with the opening), you can't tell that the piece is not being performed by real instruments. The synthesized music goes so far as to include &quot;accidentals,&quot; such as the sound of fingers travelling down the guitar strings, which adds to a more realistic sound.I highly reccommend this soundtrack (3CDs) for anyone who enjoys listening to excellent, well written music. Mitsuda's talent is well displayed in this soundtrack (he also wrote the music to Chrono Trigger and Xenogears). If you are leery about jumping into a purchase before sampling some mp3's (don't worry, I'm the same way), then I suggest listening to the three songs I listed in the first paragraph. They are a good representation of the whole, although there are MANY other tracks that are excellent as well.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A1QA8K3LD9K892
+review/profileName: Chris Adamson "invalidname"
+review/helpfulness: 17/19
+review/score: 5.0
+review/time: 980035200
+review/summary: Best game soundtrack in my collection
+review/text: Basic info: Music composed arranged and produced by Yasunori Mitsuda. 3-disc set. Disc 1: 69:40 (29 tracks). Disc 2: 59:50 (26 tracks). Disc 3: 53:21 (16 tracks). Most packaging is in Japanese, but you can get the English track list by playing the CD in an internet-connected computer with a CDDB-compatible audio player, like Apple's &quot;iTunes&quot;.I'd heard this was a wonderful soundtrack and bought it at an anime convention before I'd even played the game. If only all my impulse purchases went so well. I knew Mitsuda's style from the &quot;Xenogears&quot; soundtrack, but &quot;Chrono Cross&quot; blew me away.Whereas so many PlayStation game soundtracks are dominated by marches (Brave Fencer Musashiden), or synthesized brass and ominous church-bells (Final Fantasy), Chrono Cross' music offers string quartets, acoustic guitar, bouzouki and a decidedly Celtic feel, with the horns and drums only coming out for the occasional battle theme or Dramatic Moment. Not only does the music fit the exploratory and communicative tasks that it commonly underscores in the game, but it also holds up better for casual listening. This, potentially, is game music for people who don't know or don't like game music. Disc 1 in particular alternates betweens moods of gentleness and uneasy mystery.Disc 3's &quot;Radical Dreamers&quot;, sung by Noriko Mitose, upholds Squaresoft's recent tradition of an end-of-game pop song that is presaged by earlier tracks in the score, and fits in nicely as a closer to the soundtrack, though it probably doesn't stand out enough to show up on internet anime radio stations like Final Fantasy VIII's &quot;Eyes On Me&quot; does.A 3-disc import doesn't come cheap, but if you are at all interested in Chrono Cross and its music, I don't think you'll be disappointed with this soundtrack.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A3GXD7RZLS8USP
+review/profileName: D. Keller "techie and tinkerer"
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1163116800
+review/summary: Good, and not just for game music
+review/text: "I've never played the game, but I've watched it." How many times have you heard that phrase? That was the case for me and Chrono Cross and as a result I had the pleasure of concentrating more on the story and, best of all, the music. Yasunori Mitsuda has a knack for setting the emotional tone of a scene with his music: even on older games such as Chrono Trigger, he demonstrated that video game music can be more than just a repetitive or monotonous theme; rather it can be an entire score. In this case, three CDs worth of a score.Mitsuda and other Japanese composers do something incredibly ambitious with scores like these: writing enough music to fill games that gamers may spend 50 or more hours playing. Yes, even this music can get monotonous at times (RPG gamers will know what I mean by "battle music"), but thankfully, you don't have to listen to the music in that fashion with this soundtrack.My favorite tracks are, of course, the couple that incorporate actual acoustic instruments. The synthesized tracks, however, are still some of the best that I've heard from a video game score. More specifically, the guitar tracks are impressive. The instrumentalists went to the trouble of adding subtle touches like the noise of fingers sliding over steel or nylon strings which is convincing enough at times to make you do an aural double-take.The style is varied, but you can liken it to a bit Celtic, a bit Renaissance, and a bit modern. What really matters is that it sounds good and it's fun to listen to.It's difficult for me to give this or any other game soundtrack five stars when compared to other music selections. I'll just say my 5 star rating is within the context of video game scores - you'll be hard pressed to find a better one. In the context of all music, however, I'd give this a 4 or 4.5, not because of the composer but because of the limitations of the genre. This music needs to be looped and it needs to fit in a small amount of computer memory and as a result will suffer compared to a full orchestral score for an opera or movie. The music still stands on its own and I have no problems recommending this to music lovers in general.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: AM8K619L97JWR
+review/profileName: Joseph Rodriguez
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 987120000
+review/summary: Yasunori Mitsuda creates another masterpiece
+review/text: Once again, the composer of Chrono Trigger and Xenogears has composed a soundtrack of consistently high quality. I can't wait to see what Yasunori Mitsuda's next project, Tsugunai for the PlayStation 2, will give us.The Chrono Cross Soundtrack, while it has its share of warlike battle anthems to get your heart pounding, seems to focus on calming, Celtic-influenced songs, with lots of guitars and flutes. A nice bonus: since the game takes place in two parallel worlds, most themes have two or more versions, arranged using different tempo and instruments.This 3-CD set includes all the music from Chrono Cross. Although it's all good, highlights include: on disc 1, Scars of Time, both versions of Arni Village, and Memory - Lingering Feelings; on disc 2, Dragon Knight; and on disc 3, Time of the Dreamwatch, Life - The Faraway Promise, and The Jewel Not Stolen (sung by Noriko Mitose).The liner notes include interesting commentary about each and every single track by Mitsuda. However, remember that this is a Japanese soundtrack, and so the liner notes are in Japanese. However, there are translations of them as well as of the track list floating around if, like most Americans, you don't know Japanese.Definitely a good purchase. Well worth the price!
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A380TO7W3JNT72
+review/profileName: Sephiroth Fanatic "Final Fantasy Master"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1156464000
+review/summary: Absolutely Awesome!!!
+review/text: This soundtrack is one of the best I have ever heard. It contains all of the songs heard in the game. They are mostly played in chronological order. This music is all orchestral and follows a caribbian theme, since the game is based around a group of islands. Most of the songs and the booklet it comes with are all in Japanese. The only things that are in English are a few of the really important song titles. This music is well worth getting even though the price may be a little high. But think about it you are getting 67 songs spread over 3 CD's. Anyway I would highly suggest this music to any Chrono Cross Game fanatic, or if you enjoy orchestral music.Hope this review helps.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A8AMGDYS73PL9
+review/profileName: Arion Acurantes
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1141689600
+review/summary: A soundtrack you'll never forget
+review/text: With everything having been said, there's nothing else for me to say except that the music of Chrono Cross has stood up well over these years and still gives me something new everytime I listen.I love this soundtrack mainly for its most heartfelt pieces; the quiet, simmering compositions that tie everything together in between its most powerful and majestic moments."The Scars of Time" is still one of the best, most original theme pieces ever, and the only one on the soundtrack (if I remember right) which Mitsuda created with acoustic, not synthesized, music. Another piece which stands out is "The Bend of Time" (a.k.a. "Ravine - Cleft of Dimension"), which is played in the game at the island where you may return to battle any of the game's creatures over again. I, however, lacking the soundtrack CD at the time, merely went there to listen to the music and let it loop in the background while I went about my business.Some time later I ordered the CD (unheard of on Amazon at the time), and six years on, "The Bend of Time" is still one of the best pieces to put on for a quiet, sunny late afternoon. When my daughter was born, "The Bend of Time," "Another Arni," "Another Guldove," and "Home Arni" made her lullaby playlist, and these are still some of her favorite pieces.What Yasunori Mitsuda has achieved here is an amazing, all-embracing sweep of the entire spectrum of human emotion. It's upbeat, victorious, adventurous, tragic, dramatic, gentle, nostalgic, hostile -- this is music that, if you let it, will touch your life in ways beyond the TV and the PlayStation controller.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A1IPI5V1FVE354
+review/profileName: Christian Nelson
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 989280000
+review/summary: Beautiful...
+review/text: This is easily the best video game soundtrack of the past several years, mixing a wonderful blend of soothing melodies and heart-pounding battle songs. Many of the reviews I've read on the internet like to list a few tracks that 'stand out' on this 3-disc set, but personally I think you have to listen to it all. When listening to this OST by itself, you really can't skip over any one song, espically if you've played the game all the way through at least once.Moving, spiritual music that really goes above and beyond the call of the genre. Any fan of real music should have this in their collection, it is beautiful beyond reproach. Yasunori Mitsuda is a truely brilliant composer.The liner notes that come with the set are in japanese, but a translation can be found at GameFaqs.com in the Chrono Cross section. All in all, this album is WELL worth the import price, and can be enjoyed by people of any age and musical taste.
+
+product/productId: B000058A81
+product/title: Chrono Cross: Original Soundtrack
+product/price: unknown
+review/userId: A310GKM5693NRG
+review/profileName: Chris
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1271808000
+review/summary: There's a reason for the price
+review/text: There's a reason this CD is so expensive, even the version that's not an import.Some of the best music ever. I could listen to every track every minute of every day. That's about all i can say.
+
+product/productId: 0826414346
+product/title: Dr. Seuss: American Icon
+product/price: unknown
+review/userId: A30TK6U7DNS82R
+review/profileName: Kevin Killian
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1095724800
+review/summary: Really Enjoyed It
+review/text: I don't care much for Dr. Seuss but after reading Philip Nel's book I changed my mind--that's a good testimonial to the power of Rel's writing and thinking. Rel plays Dr. Seuss the ultimate compliment of treating him as a serious poet as well as one of the 20th century's most interesting visual artists, and after reading his book I decided that a trip to the Mandeville Collections of the library at University of California in San Diego was in order, so I could visit some of the incredible Seuss/Geisel holdings they have there.There's almost too much to take in, for, like William Butler Yeats, Seuss led a career that constantly shifted and metamoprhized itself to meet new historical and political cirsumstances, so he seems to have been both a leftist and a conservative at different junctures of his career, both in politics and in art. As Nel shows us, he was once a cartoonist for the fabled PM magazine and, like Andy Warhol, he served his time slaving in the ad business too. All was in the service of amusing and broadening the minds of US children. Nel doesn't hesitate to administer a sound spanking to the Seuss industry that, since his death, has seen fit to license all kinds of awful products including the recent CAT IN THE HAT film with Mike Myers. Oh, what a cat-astrophe!The book is great and I can especially recommend the work of the picture editor who has given us a bounty of good illustrations.

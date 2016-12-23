@@ -5,7 +5,8 @@ object Alluxio001 {
   def main(args: Array[String]) {
     //1.创建spark执行环境
     val conf = new SparkConf().setAppName(this.getClass.getName)
-      .setMaster("local[*]")
+//      .setMaster("local[*]")
+      .setMaster("yarn-client")
     val spark = new SparkContext(conf)
 
     //2.读取alluxio上的文件

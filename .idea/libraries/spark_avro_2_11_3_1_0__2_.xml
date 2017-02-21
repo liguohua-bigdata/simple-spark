@@ -1,8 +1,6 @@
 <component name="libraryTable">
   <library name="spark-avro_2.11-3.1.0 (2)">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/spark-avro_2.11-3.1.0.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>

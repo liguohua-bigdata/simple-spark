@@ -8,6 +8,7 @@
     <properties>
         <scala.version>2.11.8</scala.version>
         <spark.version>2.0.1</spark.version>
+        <hive.version>1.2.1</hive.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -28,37 +29,12 @@
     </pluginRepositories>
 
     <dependencies>
-        <!--<dependency>-->
-            <!--<groupId>org.apache.spark</groupId>-->
-            <!--<artifactId>spark-core_2.11</artifactId>-->
-            <!--<version>${spark.version}</version>-->
-        <!--</dependency>-->
-        <!--<dependency>-->
-            <!--<groupId>org.apache.spark</groupId>-->
-            <!--<artifactId>spark-mllib_2.11</artifactId>-->
-            <!--<version>${spark.version}</version>-->
-        <!--</dependency>-->
-        <!--<dependency>-->
-            <!--<groupId>org.apache.spark</groupId>-->
-            <!--<artifactId>spark-sql_2.11</artifactId>-->
-            <!--<version>${spark.version}</version>-->
-        <!--</dependency>-->
-        <dependency>
-            <groupId>org.scala-lang</groupId>
-            <artifactId>scala-library</artifactId>
-            <version>${scala.version}</version>
-        </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.4</version>
             <scope>test</scope>
         </dependency>
-        <!--<dependency>-->
-            <!--<groupId>com.databricks</groupId>-->
-            <!--<artifactId>spark-avro_2.10</artifactId>-->
-            <!--<version>3.1.0</version>-->
-        <!--</dependency>-->
         <dependency>
             <groupId>com.databricks</groupId>
             <artifactId>spark-avro_2.11</artifactId>

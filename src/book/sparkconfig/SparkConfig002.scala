@@ -11,7 +11,8 @@ object SparkConfig002 {
     val sparkConf = new SparkConf()
     sparkConf.setAppName(this.getClass.getName)
     sparkConf.set("spark.logConf", "true")
-    sparkConf.setMaster("local[*]")
+//    sparkConf.setMaster("local[*]")
+    sparkConf.setMaster("spark://qingcheng11:7077")
     //2.注册serializer，默认为org.apache.spark.serializer.JavaSerialization，通用但性能低
     sparkConf.set("spark.serializer", "org.apache.spark.serializer.KryoSerialization")
     //3.配置KryoClasses类

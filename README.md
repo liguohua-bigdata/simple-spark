@@ -26,6 +26,8 @@
 * [spark-sql](book/spark-sql/spark-sql.md)
 
 * [spark-alluxio](book/ext/alluxio/alluxio.md)
+
+* [spark-on-yarn](book/spark-on-yarn/spark-on-yarn.md)
 ---
 * [data](book/data/data.md)
 * [operator](book/operator/operator.md)

@@ -8,19 +8,19 @@ USAGE LICENSE
 ================================================================================
 
 Neither the University of Minnesota nor any of the researchers
-involved can guarantee the correctness of the data, its suitability
+involved can guarantee the correctness of the ca001.data, its suitability
 for any particular purpose, or the validity of results based on the
-use of the data set.  The data set may be used for any research
+use of the ca001.data set.  The ca001.data set may be used for any research
 purposes under the following conditions:
 
      * The user may not state or imply any endorsement from the
        University of Minnesota or the GroupLens Research Group.
 
-     * The user must acknowledge the use of the data set in
-       publications resulting from the use of the data set, and must
+     * The user must acknowledge the use of the ca001.data set in
+       publications resulting from the use of the ca001.data set, and must
        send us an electronic or paper copy of those publications.
 
-     * The user may not redistribute the data without separate
+     * The user may not redistribute the ca001.data without separate
        permission.
 
      * The user may not use this information for any commercial or
@@ -34,7 +34,7 @@ If you have any further questions or comments, please contact GroupLens
 ACKNOWLEDGEMENTS
 ================================================================================
 
-Thanks to Shyong Lam and Jon Herlocker for cleaning up and generating the data
+Thanks to Shyong Lam and Jon Herlocker for cleaning up and generating the ca001.data
 set.
 
 FURTHER INFORMATION ABOUT THE GROUPLENS RESEARCH PROJECT
@@ -86,7 +86,7 @@ UserID::Gender::Age::Occupation::Zip-code
 
 All demographic information is provided voluntarily by the users and is
 not checked for accuracy.  Only users who have provided some demographic
-information are included in this data set.
+information are included in this ca001.data set.
 
 - Gender is denoted by a "M" for male and "F" for female
 - Age is chosen from the following ranges:

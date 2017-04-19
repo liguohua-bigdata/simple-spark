@@ -19,8 +19,8 @@ object PageRank {
     val sc = new SparkContext(conf)
 
     //读入数据文件
-    val articles: RDD[String] = sc.textFile("/home/hadoop/IdeaProjects/data/graphx/graphx-wiki-vertices.txt")
-    val links: RDD[String] = sc.textFile("/home/hadoop/IdeaProjects/data/graphx/graphx-wiki-edges.txt")
+    val articles: RDD[String] = sc.textFile("/home/hadoop/IdeaProjects/ca001.data/graphx/graphx-wiki-vertices.txt")
+    val links: RDD[String] = sc.textFile("/home/hadoop/IdeaProjects/ca001.data/graphx/graphx-wiki-edges.txt")
 
     //装载顶点和边
     val vertices = articles.map { line =>

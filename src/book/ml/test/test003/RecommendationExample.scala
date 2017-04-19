@@ -14,7 +14,7 @@ object RecommendationExample {
     val sc = new SparkContext(conf)
 
     // $example on$
-    // Load and parse the data
+    // Load and parse the ca001.data
     val path="file:///Users/liguohua/Documents/F/code/idea/git/simple-spark/src/pa4/test003/ALSdata"
 
     val data = sc.textFile(path)
@@ -27,7 +27,7 @@ object RecommendationExample {
     val numIterations = 10
     val model = ALS.train(ratings, rank, numIterations, 0.01)
 
-    // Evaluate the model on rating data
+    // Evaluate the model on rating ca001.data
     val usersProducts = ratings.map { case Rating(user, product, rate) =>
       (user, product)
     }

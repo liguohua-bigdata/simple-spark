@@ -17,7 +17,7 @@ import org.apache.spark.streaming.{Seconds, StreamingContext, Time}
   *
   * Usage: RecoverableNetworkWordCount <hostname> <port> <checkpoint-directory> <output-file>
   * <hostname> and <port> describe the TCP server that Spark Streaming would connect to receive
-  *   data. <checkpoint-directory> directory to HDFS-compatible file system which checkpoint data
+  *   ca001.data. <checkpoint-directory> directory to HDFS-compatible file system which checkpoint ca001.data
   * <output-file> file to which the word counts will be appended
   *
   * <checkpoint-directory> and <output-file> must be absolute paths
@@ -33,8 +33,8 @@ import org.apache.spark.streaming.{Seconds, StreamingContext, Time}
   *
   * If the directory ~/checkpoint/ does not exist (e.g. running for the first time), it will create
   * a new StreamingContext (will print "Creating new context" to the console). Otherwise, if
-  * checkpoint data exists in ~/checkpoint/, then it will create StreamingContext from
-  * the checkpoint data.
+  * checkpoint ca001.data exists in ~/checkpoint/, then it will create StreamingContext from
+  * the checkpoint ca001.data.
   *
   * Refer to the online documentation for more details.
   */
@@ -85,8 +85,8 @@ object RecoverableNetworkWordCount {
 //        """
 //          |Usage: RecoverableNetworkWordCount <hostname> <port> <checkpoint-directory>
 //          |     <output-file>. <hostname> and <port> describe the TCP server that Spark
-//          |     Streaming would connect to receive data. <checkpoint-directory> directory to
-//          |     HDFS-compatible file system which checkpoint data <output-file> file to which the
+//          |     Streaming would connect to receive ca001.data. <checkpoint-directory> directory to
+//          |     HDFS-compatible file system which checkpoint ca001.data <output-file> file to which the
 //          |     word counts will be appended
 //          |
 //          |In local mode, <master> should be 'local[n]' with n > 1

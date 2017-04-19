@@ -1,10 +1,9 @@
-package mlib
+package ca001
 
 import org.apache.spark.mllib.linalg.distributed.{CoordinateMatrix, RowMatrix}
 import org.apache.spark.mllib.linalg.{Matrices, Matrix, SingularValueDecomposition, Vectors}
 import org.apache.spark.mllib.stat.MultivariateStatisticalSummary
 import org.apache.spark.{SparkConf, SparkContext}
-
 
 /**
   * Created by liguohua on 02/12/2016.

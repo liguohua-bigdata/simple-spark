@@ -26,8 +26,7 @@ object C004 {
       Edge(5L, 3L, "advisor"),
       Edge(2L, 5L, "colleague"),
       Edge(5L, 7L, "pi")))
-    val defaultUser = ("John Doe", "Missing")
-    val graph = Graph(users, relationships, defaultUser)
+    val graph = Graph(users, relationships)
     println("1.1mask：返回的是current graph和other graph的公共子图图*************************************************")
 
 

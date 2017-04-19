@@ -41,7 +41,7 @@ object ALSExample {
     ratings.show()
     val Array(training, test) = ratings.randomSplit(Array(0.8, 0.2))
 
-    // Build the recommendation model using ALS on the training data
+    // Build the recommendation model using ALS on the training ca001.data
     val als = new ALS()
       .setMaxIter(5)
       .setRegParam(0.01)
@@ -50,7 +50,7 @@ object ALSExample {
       .setRatingCol("rating")
     val model = als.fit(training)
 
-    // Evaluate the model by computing the RMSE on the test data
+    // Evaluate the model by computing the RMSE on the test ca001.data
     val predictions = model.transform(test)
 
     val evaluator = new RegressionEvaluator()

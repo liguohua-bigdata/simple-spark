@@ -16,7 +16,7 @@ object MoviesRecommond {
     //####################可以删除的部分####################//
     val args = new Array[String](2)
     args(0) = "local[8]"
-    args(1) = "/Users/liguohua/Documents/F/code/idea/git/simple-spark/data/movie"
+    args(1) = "/Users/liguohua/Documents/F/code/idea/git/simple-spark/ca001.data/movie"
     //####################可以删除的部分####################//
 
     if (args.length < 2) {
@@ -74,9 +74,9 @@ object MoviesRecommond {
       .cache()
 
     //打印出用于训练，验证和测试的数据集分别是多少条记录
-    println("training data's num : " + traningData_Rating.count()
-      + " validate data's num : " + validateData_Rating.count()
-      + " test data's num : " + testData_Rating.count())
+    println("training ca001.data's num : " + traningData_Rating.count()
+      + " validate ca001.data's num : " + validateData_Rating.count()
+      + " test ca001.data's num : " + testData_Rating.count())
 
     //开始模型训练，根据方差选择最佳模型
     val ranks = List(8, 22)
@@ -108,7 +108,7 @@ object MoviesRecommond {
     //将最佳模型运用在测试数据集上
     val testDataRnse = rnse(bestModel, testData_Rating, testData_Rating.count())
     println("the best model was trained with rank = " + bestRank + " and lambda = " + bestLambda
-      + " and numIter = " + bestIter + " and Rnse on the test data is " + testDataRnse)
+      + " and numIter = " + bestIter + " and Rnse on the test ca001.data is " + testDataRnse)
 
     //计算和原先基础的相比其提升了多少
     val meanRating = traningData_Rating.union(validateData_Rating).map(_.rating).mean()

@@ -25,7 +25,7 @@ object DatasetVsDataFrame {
     import sparkSession.implicits._
 
 
-    //read data from text file
+    //read ca001.data from text file
     val filePath = "hdfs://qingcheng12:9000/input/spark/sales.csv"
     val df = sparkSession.read.option("header", "true").option("inferSchema", "true").csv(filePath)
     val ds = sparkSession.read.option("header", "true").option("inferSchema", "true").csv(filePath).as[Sales]

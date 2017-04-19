@@ -15,8 +15,8 @@ object C015 {
     val sc = new SparkContext(conf)
 
 
-    // Parse the edge data which is already in userId -> userId format  
-    val graph = GraphLoader.edgeListFile(sc, "/Users/liguohua/Documents/F/code/idea/git/simple-spark/src/test/graphx2/data/web-Google.txt")
+    // Parse the edge ca001.data which is already in userId -> userId format
+    val graph = GraphLoader.edgeListFile(sc, "/Users/liguohua/Documents/F/code/idea/git/simple-spark/src/test/graphx2/ca001.data/web-Google.txt")
     println("graph.numEdges:" + graph.numEdges)
     println("graph.numVertices:" + graph.numVertices)
     println("\n edges 10:")

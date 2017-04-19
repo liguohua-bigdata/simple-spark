@@ -13,7 +13,7 @@ object ReadFile {
     sparkConf.setAppName("MovieLensALS").setMaster("local[5]")
     val sc = new SparkContext(sparkConf)
 
-    val lines = sc.textFile("file:///Users/liguohua/Documents/F/code/idea/git/simple-spark/data/ml-100k/u.data")
+    val lines = sc.textFile("file:///Users/liguohua/Documents/F/code/idea/git/simple-spark/ca001.data/ml-100k/u.ca001.data")
     val string =lines.collect()
     string.foreach(print(_))
   }

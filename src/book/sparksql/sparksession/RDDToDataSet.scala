@@ -20,7 +20,7 @@ object RDDToDataSet {
     val sparkContext = sparkSession.sparkContext
 
 
-    //read data from text file
+    //read ca001.data from text file
     val filePath="hdfs://qingcheng12:9000/input/spark/README.md"
     val rdd = sparkContext.textFile(filePath)
     val dataset = sparkSession.read.text(filePath).as[String]

@@ -17,7 +17,7 @@ object UserSideCF {
   def splitData(): Array[RDD[Rating]] = {
     val sparkConf = new SparkConf().setMaster("local[*]").setAppName("UserCF")
     val sc = new SparkContext(sparkConf)
-    val lines = sc.textFile("file:///Users/liguohua/Documents/F/code/idea/git/simple-spark/data/ml-100k/u.data")
+    val lines = sc.textFile("file:///Users/liguohua/Documents/F/code/idea/git/simple-spark/ca001.data/ml-100k/u.ca001.data")
     val rstings = lines.map(l => {
       val tok = l.split("\t")
       new Rating(tok(0).toInt, tok(1).toInt, tok(2).toDouble)

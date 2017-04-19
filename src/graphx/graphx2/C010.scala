@@ -15,11 +15,11 @@ object C010 {
     val sc = new SparkContext(conf)
 
     // Load the edges as a graph
-    val graph = GraphLoader.edgeListFile(sc, "/Users/liguohua/Documents/F/code/idea/git/simple-spark/src/test/graphx2/data/followers.txt")
+    val graph = GraphLoader.edgeListFile(sc, "/Users/liguohua/Documents/F/code/idea/git/simple-spark/src/test/graphx2/ca001.data/followers.txt")
     // Run PageRank
     val ranks = graph.pageRank(0.0001).vertices
     // Join the ranks with the usernames
-    val users = sc.textFile("/Users/liguohua/Documents/F/code/idea/git/simple-spark/src/test/graphx2/data/users.txt").map { line =>
+    val users = sc.textFile("/Users/liguohua/Documents/F/code/idea/git/simple-spark/src/test/graphx2/ca001.data/users.txt").map { line =>
       val fields = line.split(",")
       (fields(0).toLong, fields(1))
     }
